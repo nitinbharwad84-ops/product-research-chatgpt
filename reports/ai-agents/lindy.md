@@ -3,364 +3,296 @@
 - Original list label: Lindy
 - Normalized product name: Lindy
 - Category: AI Agents
-- Status: Not started
+- Status: Research drafted - batch 003
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Lindy official site](https://www.lindy.ai/)
+- [Lindy integrations](https://www.lindy.ai/integrations)
+- [Lindy templates](https://www.lindy.ai/templates)
+- [Lindy pricing guide - CloudTalk](https://www.cloudtalk.io/blog/lindy-ai-pricing/)
+- [Gmelius Lindy review](https://gmelius.com/blog/lindy-ai-personal-assistant-review)
+- [Annika Helendi Lindy review](https://annikahelendi.substack.com/p/my-honest-lindy-ai-review-what-works)
+- [Open.cx Lindy review](https://www.open.cx/blog/lindy-ai-review-and-alternatives-2026)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Lindy is a no-code AI agent and executive assistant platform for automating inbox, meetings, calendar, CRM, sales, support, and operational workflows.
+- Primary users: executives, founders, sales teams, recruiters, customer support teams, agencies, and SMB operators.
+- Company: Lindy AI.
+- Target market: AI agents, no-code automation, AI executive assistants, and business workflow automation.
+- Pricing model: subscription/usage model; current third-party pricing reports Plus, Pro, Max, and Enterprise tiers, but users should verify inside Lindy because credits and usage rules change.
+- Business model: SaaS subscriptions with higher usage, integrations, and enterprise capacity on upper tiers.
+- Market positioning: an AI executive assistant that saves time by proactively handling email, meetings, calendar, and workflows.
+- Core philosophy: business users should be able to describe an agent in natural language instead of building brittle workflow logic by hand.
+- Product vision: a team of custom AI employees handling repeatable operational work across apps.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? busy professionals lose time to repetitive communication, follow-up, scheduling, CRM updates, lead handling, and cross-app coordination.
+- Why does this problem exist? The work is frequent, context-heavy, and spread across many tools, so manual execution creates delays and quality inconsistency.
+- How did people solve this before? users combined human assistants, Zapier, calendar tools, inbox rules, CRM automation, outsourced SDRs, and manual checklists.
+- Why do users choose this product? users choose Lindy for natural-language agent creation, large app integration coverage, ready templates, voice/meeting/email workflows, and less setup than traditional automation builders.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI agents, natural-language workflow creation, templates, Gmail/calendar/CRM integrations, meeting prep and notes, customer support agents, lead generation, calling, multi-step workflows, conditional logic, memory, triggers, and human-in-the-loop review
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer features exist where APIs, app platforms, exports, or integrations are documented; otherwise this is not the primary surface.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline behavior is limited or not central unless the product provides local apps, cached drafts, or exported artifacts.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Accessibility Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features are available where documented, but exact depth varies by plan, workspace, and current product version.
+- Why it exists: To make the product useful in real workflows rather than isolated demos.
+- User benefit: Users save time while keeping more control over quality, collaboration, or governance.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user signs up for a trial, picks a template or describes a task, connects Gmail/Calendar/CRM, tests the Lindy on low-risk work, reviews outputs, adjusts instructions, then expands to recurring workflows and team use.
+
+Important interactions include discovery, signup, onboarding, first useful output, iteration, sharing/export, integration setup, daily use, advanced configuration, and long-term retention through saved history or workflows.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+Main IA likely includes dashboard, agents/Lindies, templates, integrations, runs/history, inbox/calendar workflows, usage/credits, settings, and team/admin controls.
+
+The strongest IA pattern is to keep the user's artifact, sources, or agent at the center, with settings, integrations, billing, and governance reachable but secondary.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+The best UX is agent creation in plain English. The main friction is trust: users need to understand what the agent will do, what it costs in credits, and when it needs approval.
+
+Strengths are speed, familiar workflows, and low activation energy. Weaknesses are cost opacity, overgenerated output, hidden AI assumptions, and the need for human review.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+Lindy uses LLM-powered agents that combine instructions, triggers, connected apps, and memory. Exact model routing and prompt internals are not fully public.
+
+Important AI evaluation questions: model transparency, source grounding, user control, prompt/history handling, output verification, and failure recovery.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Public materials emphasize hosted SaaS, app connectors, no-code workflow orchestration, voice/calling, and template-based agent creation. Exact backend, queueing, database, and model infrastructure are not public.
+
+Unknowns: exact model providers, backend architecture, data stores, queueing systems, retention implementation, and internal evaluation pipelines unless explicitly documented.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Lindy markets broad integration coverage across email, calendar, CRMs, messaging, support, and productivity apps; sources commonly cite Gmail, HubSpot, Salesforce-style workflows, Slack, calendar, and thousands of apps.
+
+Integration quality should be judged by authentication, sync depth, failure handling, permission scope, and whether users can export or disconnect cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation is the core product: triggers, app actions, scheduling, voice tasks, follow-ups, CRM updates, support triage, and agent workflows.
+
+The best automation pattern is transparent: users should know what was triggered, what changed, what it cost, and how to undo or revise it.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Team use is supported through shared agents/workflows and higher-tier business plans, but granular role/audit details need plan verification.
+
+Collaboration should be evaluated through roles, comments, sharing, versioning, approvals, audit logs, and enterprise admin controls.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes custom agents, templates, instructions, triggers, connected apps, voice/calling behavior, and workflow steps.
+
+Customization matters when teams need brand consistency, personal style, permissions, templates, output formats, or workflow-specific behavior.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Users should evaluate OAuth scopes, agent permissions, data retention, audit logs, approval gates, and enterprise security documentation before connecting sensitive accounts.
+
+Security review should include authentication, authorization, encryption, compliance, data retention, AI data-use policy, connected-app permissions, and admin controls.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Performance depends on workflow complexity, model latency, third-party APIs, and credit/usage limits. Reviews praise setup speed but criticize credit costs and complex workflow reliability.
+
+Performance should be tested with real work: generation latency, output quality, revisions, large files/projects, collaboration, export, and integration reliability.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community includes official templates, YouTube reviews, Substack reviews, automation blogs, Reddit/AI agent lists, and business automation comparisons.
+
+Community evidence should be balanced between official claims, independent reviews, user complaints, and actual workflow tests.
 
 ## 16. Strengths
 
-- _To be researched._
+- natural-language automation
+- strong executive-assistant positioning
+- broad integration ambition
+- useful templates
+- good fit for SMB operations
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- pricing/credits can feel expensive
+- complex workflows may break
+- trust and approval UX are critical
+- enterprise controls are plan-dependent
+- non-technical users may over-grant permissions
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- transparent per-run cost forecast
+- visual agent debugger
+- permission risk scoring
+- workflow simulation mode
+- stronger public security architecture detail
+
+These matter because users need trust, control, portability, and predictability once AI becomes part of daily work.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- AI operations control room
+- agent marketplace
+- safe-mode onboarding
+- business-process mining from inbox/calendar
+- cross-agent memory and handoffs
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Lindy is a no-code AI agent and executive assistant platform for automating inbox, meetings, calendar, CRM, sales, support, and operational workflows.
+- Redesign: make sources, permissions, cost, quality, and history more visible.
+- Remove: hidden assumptions, unclear limits, and workflows that make users overtrust outputs.
+- Simplify: onboarding, integration setup, output revision, and export.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: saved work history, templates, brand/style settings, integrations, team habits, and trust.
+- What creates lock-in: accumulated content, workflows, sources, prompts, brand assets, or enterprise policies.
+- Why competitors struggle: they must match both fast output and the surrounding workflow ecosystem.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: executives, founders, sales teams, recruiters, customer support teams, agencies, and SMB operators.
+- Who should avoid it: users who need full manual control, strict unverifiable compliance, or zero-review automation.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: natural-language automation, strong executive-assistant positioning, broad integration ambition.
+- Weaknesses: pricing/credits can feel expensive, complex workflows may break, trust and approval UX are critical.
+- Opportunities: AI operations control room, agent marketplace, safe-mode onboarding.
+- Threats: commoditized AI features, platform bundling, privacy concerns, pricing pressure, and user fatigue from mediocre AI outputs.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 8/10
+- Features: 8/10
+- Performance: 7/10
+- Customization: 8/10
+- AI: 8/10
+- Automation: 9/10
+- Integrations: 8/10
+- Scalability: 7/10
+- Innovation: 8/10
+- Value for Money: 6/10
+- Overall: 7.7/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: in-context AI, fast first drafts, templates, collaboration, source/workflow awareness, and broad distribution.
+- Worst ideas to avoid: opaque limits, overconfident outputs, weak export, and hidden data assumptions.
+- Innovations worth adapting: AI embedded inside existing work surfaces rather than isolated chat.
+- Design principles: show context, show controls, show evidence, and keep human revision easy.
+- Architecture principles: build around source traceability, permission boundaries, extensible integrations, and observable generation.
+- Business lessons: free/low-friction entry wins adoption, but pricing clarity wins trust.
+- Product strategy lessons: AI products become defensible when they own workflow, context, and distribution together.

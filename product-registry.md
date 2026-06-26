@@ -22,11 +22,11 @@ This registry preserves the original list order after deduplicating the repeated
 | 8 | bolt | Bolt | AI App Builders | [reports/ai-app-builders/bolt.md](reports/ai-app-builders/bolt.md) | Research drafted - batch 002 |
 | 9 | emergent | Emergent | AI App Builders | [reports/ai-app-builders/emergent.md](reports/ai-app-builders/emergent.md) | Research drafted - batch 002 |
 | 10 | Fathom | Fathom | Meetings And Transcription | [reports/meetings-and-transcription/fathom.md](reports/meetings-and-transcription/fathom.md) | Research drafted - batch 002 |
-| 11 | Lindy | Lindy | AI Agents | [reports/ai-agents/lindy.md](reports/ai-agents/lindy.md) | Not started |
-| 12 | Canva AI | Canva AI | Design And Creative | [reports/design-and-creative/canva-ai.md](reports/design-and-creative/canva-ai.md) | Not started |
-| 13 | Gamma | Gamma | Presentations And Documents | [reports/presentations-and-documents/gamma.md](reports/presentations-and-documents/gamma.md) | Not started |
-| 14 | NotebookLM | NotebookLM | Knowledge And Research | [reports/knowledge-and-research/notebooklm.md](reports/knowledge-and-research/notebooklm.md) | Not started |
-| 15 | Grammarly | Grammarly | Writing And Communication | [reports/writing-and-communication/grammarly.md](reports/writing-and-communication/grammarly.md) | Not started |
+| 11 | Lindy | Lindy | AI Agents | [reports/ai-agents/lindy.md](reports/ai-agents/lindy.md) | Research drafted - batch 003 |
+| 12 | Canva AI | Canva AI | Design And Creative | [reports/design-and-creative/canva-ai.md](reports/design-and-creative/canva-ai.md) | Research drafted - batch 003 |
+| 13 | Gamma | Gamma | Presentations And Documents | [reports/presentations-and-documents/gamma.md](reports/presentations-and-documents/gamma.md) | Research drafted - batch 003 |
+| 14 | NotebookLM | NotebookLM | Knowledge And Research | [reports/knowledge-and-research/notebooklm.md](reports/knowledge-and-research/notebooklm.md) | Research drafted - batch 003 |
+| 15 | Grammarly | Grammarly | Writing And Communication | [reports/writing-and-communication/grammarly.md](reports/writing-and-communication/grammarly.md) | Research drafted - batch 003 |
 | 16 | Perplexity AI | Perplexity AI | Knowledge And Research | [reports/knowledge-and-research/perplexity-ai.md](reports/knowledge-and-research/perplexity-ai.md) | Not started |
 | 17 | Jasper AI | Jasper AI | Writing And Communication | [reports/writing-and-communication/jasper-ai.md](reports/writing-and-communication/jasper-ai.md) | Not started |
 | 18 | Copy.ai | Copy.ai | Writing And Communication | [reports/writing-and-communication/copy-ai.md](reports/writing-and-communication/copy-ai.md) | Not started |

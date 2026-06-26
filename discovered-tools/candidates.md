@@ -23,3 +23,10 @@ These candidates are not part of the approved report list yet. They should not r
 | Firecrawl | Web extraction | Appears in Lovable ecosystem announcements and Vellum examples | Lovable; Vellum | https://www.firecrawl.dev/ | Useful web-data layer for research and app builders. |
 | Read AI | Meeting intelligence | Appeared as a Fathom comparison source | Fathom | https://www.read.ai/ | Candidate for meeting-assistant comparison and feature inspiration. |
 | tl;dv | Meeting recorder | Appeared in Fathom review/comparison sources | Fathom | https://tldv.io/ | Candidate for meeting-assistant alternatives and team workflows. |
+
+| Superhuman Go | Cross-app AI assistant | Appeared in Grammarly/Superhuman rebrand research | Grammarly | https://superhuman.com/ | Important future direction for writing assistants becoming proactive work agents. |
+| Coda | Collaborative docs/workspace | Appeared in Grammarly/Superhuman platform context | Grammarly | https://coda.io/ | Relevant to AI writing plus docs/workflow convergence. |
+| ProWritingAid | Writing assistant | Appeared in Grammarly user comparisons | Grammarly | https://prowritingaid.com/ | Strong candidate for writing and editing competitor research. |
+| Beautiful.ai | Presentation tool | Appeared in Gamma competitive context | Gamma | https://www.beautiful.ai/ | Useful for presentation automation and brand-governed deck research. |
+| Prezi | Presentation platform | Appeared in Gamma competitive context | Gamma | https://prezi.com/ | Useful for alternative visual presentation workflows. |
+| OpenStax | Educational content | Appeared in NotebookLM education/source workflow reporting | NotebookLM | https://openstax.org/ | Useful source/content partner pattern for trusted learning workflows. |

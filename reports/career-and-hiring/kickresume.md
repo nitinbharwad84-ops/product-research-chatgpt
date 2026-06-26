@@ -3,364 +3,296 @@
 - Original list label: Kickresume
 - Normalized product name: Kickresume
 - Category: Career And Hiring
-- Status: Not started
+- Status: Research drafted - batch 005
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Kickresume official site](https://www.kickresume.com/en/)
+- [Kickresume resume builder](https://www.kickresume.com/en/resume-builder/)
+- [Kickresume AI resume writer](https://www.kickresume.com/en/ai-resume-writer/)
+- [Kickresume best resume builders article](https://www.kickresume.com/en/help-center/10-best-resume-builders/)
+- [Kickresume Trustpilot](https://www.trustpilot.com/review/kickresume.com)
+- [Firebear Kickresume review](https://firebearstudio.com/blog/kickresume-review.html)
+- [Reddit Kickresume vs Canva](https://www.reddit.com/r/Kickresume/comments/1u6hycy/kickresume_vs_canva_2026_best_resume_builder/)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Kickresume is an online resume, cover letter, personal website, and career-tool platform with AI writing, resume checking, templates, and examples.
+- Primary users: job seekers, students, career switchers, professionals, and people who want polished resumes and cover letters quickly.
+- Company: Kickresume.
+- Target market: resume builders, AI career tools, job-search preparation, cover letters, and personal career websites.
+- Pricing model: free tier plus paid monthly, quarterly, and yearly plans; third-party reviews cite around $19 monthly and lower annual effective pricing, but current pricing should be verified.
+- Business model: freemium subscription career-tool platform.
+- Market positioning: professional resume and cover letter builder used by millions of job seekers.
+- Core philosophy: job seekers should not need design or copywriting skill to create professional application materials.
+- Product vision: help users create better resumes, cover letters, websites, and career paths with templates and AI assistance.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? job seekers struggle to write concise, ATS-friendly, attractive, role-specific resumes and cover letters.
+- Why does this problem exist? The workflow is repetitive, context-heavy, and spread across multiple tools, while users need speed and accuracy.
+- How did people solve this before? manual Word/Google Docs templates, Canva, resume writers, ChatGPT, LinkedIn profiles, and generic resume examples.
+- Why do users choose this product? users choose Kickresume for polished templates, AI writing, resume checker, examples from real hires, and a smoother career-document workflow.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: resume builder, cover letter builder, AI resume writer, GPT-powered cover letter writer, resume checker, templates, examples, website builder, resignation letters, career map, guides, and export options
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is limited or not central; most workflows depend on cloud services, connected accounts, or AI APIs.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Accessibility Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user chooses a template, imports or writes experience, uses AI to draft bullet points, checks the resume, edits for the target job, creates a matching cover letter, exports, and optionally builds a personal site.
+
+The key interactions are onboarding, source/account connection, first output, review, correction, automation setup, daily use, and long-term retention through stored history or saved workflows.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+IA includes resume builder, cover letter builder, AI tools, checker, templates, examples, guides, website builder, career map, account, billing, and export.
+
+Strong IA keeps sensitive settings, output history, connected accounts, billing, and review controls visible.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Kickresume reduces blank-page and design anxiety. The main risk is that attractive templates can distract from ATS compatibility or role-specific evidence.
+
+The best UX pattern is automation with review: users should see what happened, why, what it cost, and how to fix it.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+AI features generate resume sections, cover letters, resignation letters, feedback, and career suggestions. Human editing remains necessary for accuracy and specificity.
+
+AI quality should be evaluated by accuracy, relevance, explainability, source/context use, and whether users can correct the system efficiently.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Hosted web app with document builders, templates, AI writing, checker/scoring, exports, and user accounts. Exact AI model stack is not fully public.
+
+Unknowns include exact models, data stores, queueing, retention, permissions, and integration failure handling unless disclosed in docs.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Primary outputs are PDF/resume exports, online sites, and examples/guides. Deep ATS or job-board integrations are less central than AIApply-style auto-apply products.
+
+Integration quality depends on permission scopes, sync depth, error handling, exportability, and auditability.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation includes AI drafting, resume scoring, template formatting, cover letter generation, and website generation.
+
+Automation should include review gates for sensitive actions, especially meetings, calendars, job applications, and workspace knowledge.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Collaboration is limited compared with team tools; users may share exports or links with mentors/recruiters.
+
+Collaboration should be assessed by roles, sharing, comments, approvals, version history, audit logs, and admin controls.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes templates, sections, fonts, colors, layouts, content, AI-generated copy, and export format.
+
+Customization is valuable when it lets users encode preferences, policies, role targets, meeting templates, or calendar priorities.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Users upload sensitive career history. Security/privacy policies should be reviewed, especially for AI processing and data retention.
+
+Security diligence should include OAuth scopes, data retention, AI training policy, encryption, compliance, admin controls, and user consent.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Strong for fast polished drafts. Weaknesses include generic AI content, ATS formatting concerns, and need for tailoring to each role.
+
+Performance should be tested with realistic workloads rather than demos: long meetings, messy calendars, real resumes, live job boards, and large workspaces.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Large user base, Trustpilot reviews, resume examples, career guides, YouTube comparisons, and job-seeker communities.
+
+Community feedback is especially useful for pricing, support, relevance, and trust issues that official pages understate.
 
 ## 16. Strengths
 
-- _To be researched._
+- polished templates
+- AI writing support
+- resume checker
+- examples/guides
+- good career-document workflow
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- AI copy can be generic
+- design can conflict with ATS needs
+- paid features gate full value
+- not an application tracker
+- does not guarantee interview outcomes
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- job-specific optimization workflow
+- application tracker
+- recruiter feedback loop
+- ATS simulator transparency
+- stronger LinkedIn/profile sync
+
+These matter because the product touches sensitive work: meetings, calendars, company knowledge, career identity, and applications.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- career operating system
+- resume-to-interview analytics
+- role-specific evidence coach
+- ATS-safe design recommender
+- job-search CRM
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Kickresume is an online resume, cover letter, personal website, and career-tool platform with AI writing, resume checking, templates, and examples.
+- Redesign: make consent, quality, cost, and action history more transparent.
+- Remove: hidden automation, unclear credits, and overconfident output claims.
+- Simplify: onboarding, connected-account setup, review workflows, and export.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: saved history, connected accounts, templates, workflow habits, and accumulated context.
+- What creates lock-in: transcripts, workspace data, calendar rules, resume profiles, job-application history, and integrations.
+- Why competitors struggle: they must earn trust in sensitive workflows while matching speed and convenience.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: job seekers, students, career switchers, professionals, and people who want polished resumes and cover letters quickly.
+- Who should avoid it: users who cannot review outputs, need guaranteed accuracy, or have strict policies the product cannot verify.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: polished templates, AI writing support, resume checker.
+- Weaknesses: AI copy can be generic, design can conflict with ATS needs, paid features gate full value.
+- Opportunities: career operating system, resume-to-interview analytics, role-specific evidence coach.
+- Threats: privacy incidents, platform API changes, pricing pressure, user distrust, and bundled competitors.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 9/10
+- Features: 8/10
+- Performance: 8/10
+- Customization: 8/10
+- AI: 7/10
+- Automation: 6/10
+- Integrations: 5/10
+- Scalability: 7/10
+- Innovation: 7/10
+- Value for Money: 8/10
+- Overall: 7.3/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: automation inside real workflows, searchable history, templates, and reviewable outputs.
+- Worst ideas to avoid: hidden costs, invisible actions, weak consent, and generic AI output.
+- Innovations worth adapting: convert messy human workflows into structured follow-up and searchable memory.
+- Design principles: make automation visible, reversible, and trustworthy.
+- Architecture principles: scope credentials, log actions, keep exports available, and separate private data from model training.
+- Business lessons: trust is the real moat in sensitive productivity workflows.
+- Product strategy lessons: users adopt automation fastest when it saves time without taking away control.

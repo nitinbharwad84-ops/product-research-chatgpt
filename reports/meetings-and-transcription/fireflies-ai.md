@@ -3,364 +3,297 @@
 - Original list label: Fireflies.ai
 - Normalized product name: Fireflies.ai
 - Category: Meetings And Transcription
-- Status: Not started
+- Status: Research drafted - batch 005
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Fireflies official site](https://fireflies.ai/)
+- [Fireflies pricing](https://fireflies.ai/pricing)
+- [Fireflies integrations](https://fireflies.ai/integrations)
+- [Fireflies API docs](https://docs.fireflies.ai/)
+- [Sonix Fireflies review](https://sonix.ai/resources/fireflies-ai-review-pricing/)
+- [Read AI meeting assistant comparison](https://www.read.ai/articles/best-ai-meeting-assistants)
+- [Reddit Fireflies 30-day test](https://www.reddit.com/r/LovedByCreators/comments/1ldfznh/i_used_firefliesai_for_33_meetings_in_30_days/)
+- [Business Insider Fireflies startup story](https://www.businessinsider.com/startup-story-fake-it-till-you-make-it-fireflies-ai-2025-11)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Fireflies.ai is an AI meeting assistant that records, transcribes, summarizes, searches, and syncs meeting intelligence across video meetings, email, chat, CRM, and business apps.
+- Primary users: sales teams, customer success, recruiters, managers, healthcare teams, consultants, and meeting-heavy organizations.
+- Company: Fireflies.ai.
+- Target market: AI meeting assistants, transcription, conversation intelligence, CRM meeting automation, and meeting knowledge bases.
+- Pricing model: free plan plus Pro, Business, and Enterprise tiers with storage, credits, video recording, AI skills, integrations, and security controls.
+- Business model: SaaS subscription per seat with team and enterprise expansion.
+- Market positioning: meeting assistant and searchable knowledge base across calls and work apps.
+- Core philosophy: meetings should automatically become searchable, structured, and actionable knowledge.
+- Product vision: capture every important conversation and turn it into tasks, CRM updates, summaries, and organizational memory.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? meetings contain decisions and commitments, but teams lose them in scattered notes, recordings, and CRM fields.
+- Why does this problem exist? The workflow is repetitive, context-heavy, and spread across multiple tools, while users need speed and accuracy.
+- How did people solve this before? manual notes, Zoom transcripts, human transcription, CRM notes, Fathom/Otter, and manual Slack/Notion updates.
+- Why do users choose this product? users choose Fireflies for broad meeting-platform compatibility, searchable transcripts, CRM/workflow integrations, AI summaries, and team knowledge capture.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: recording, transcription in many languages, summaries, action items, speaker detection, topic tracking, search, meeting knowledge base, CRM sync, Slack/Notion/task integrations, AI credits, AI Skills, voice agents, API, and enterprise storage/security controls
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is limited or not central; most workflows depend on cloud services, connected accounts, or AI APIs.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Accessibility Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features are present where documented, but exact depth depends on plan, integrations, and current product release.
+- Why it exists: To turn repetitive knowledge, scheduling, meeting, or job-search work into repeatable workflows.
+- User benefit: Users save time while improving consistency, follow-up, and visibility.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user signs up, connects calendar/video apps, lets Fireflies join meetings, receives transcripts and summaries, searches meetings, shares notes, syncs CRM/project tools, and configures team/admin/security settings.
+
+The key interactions are onboarding, source/account connection, first output, review, correction, automation setup, daily use, and long-term retention through stored history or saved workflows.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+IA includes meeting library, transcript, summary, soundbites, search, AskFred/chat, integrations, tasks, analytics, settings, team admin, storage, billing, and API.
+
+Strong IA keeps sensitive settings, output history, connected accounts, billing, and review controls visible.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Fireflies is strong when it works silently and produces useful summaries. Friction appears around bot presence, recording consent, transcript nuance, storage/credit limits, and integration setup.
+
+The best UX pattern is automation with review: users should see what happened, why, what it cost, and how to fix it.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+AI features include transcription, summarization, topic extraction, action item detection, meeting search/chat, AI Skills, and voice agents. Exact models are not fully public.
+
+AI quality should be evaluated by accuracy, relevance, explainability, source/context use, and whether users can correct the system efficiently.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Hosted SaaS connecting to meeting/calendar platforms with recording, speech-to-text, summarization, searchable storage, integrations, and API access. Exact backend/model stack is not public.
+
+Unknowns include exact models, data stores, queueing, retention, permissions, and integration failure handling unless disclosed in docs.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Known integrations include Zoom, Google Meet, Microsoft Teams, Webex, Slack, Notion, Salesforce, HubSpot, CRMs, task tools, Zapier-like workflows, and public API.
+
+Integration quality depends on permission scopes, sync depth, error handling, exportability, and auditability.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation includes auto-join, post-meeting summaries, action items, CRM updates, task creation, meeting search, and workflow pushes to connected apps.
+
+Automation should include review gates for sensitive actions, especially meetings, calendars, job applications, and workspace knowledge.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Teams share transcripts, summaries, snippets, comments, meeting libraries, and admin-controlled workspaces.
+
+Collaboration should be assessed by roles, sharing, comments, approvals, version history, audit logs, and admin controls.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes meeting rules, integrations, summaries, AI skills, vocabulary, privacy settings, and team/admin policies.
+
+Customization is valuable when it lets users encode preferences, policies, role targets, meeting templates, or calendar priorities.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Official materials mention HIPAA compliance, zero data retention options, private storage, customer ownership, and enterprise controls; consent and privacy policies remain essential.
+
+Security diligence should include OAuth scopes, data retention, AI training policy, encryption, compliance, admin controls, and user consent.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Reviews praise auto-join and summary accuracy, while weaknesses include occasional speaker/summary errors and meeting-platform dependency.
+
+Performance should be tested with realistic workloads rather than demos: long meetings, messy calendars, real resumes, live job boards, and large workspaces.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Large meeting-assistant ecosystem, reviews, Reddit tests, YouTube tutorials, and recent scrutiny of its early manual-transcription startup story.
+
+Community feedback is especially useful for pricing, support, relevance, and trust issues that official pages understate.
 
 ## 16. Strengths
 
-- _To be researched._
+- broad meeting compatibility
+- searchable knowledge base
+- strong integrations
+- generous transcription positioning
+- team/enterprise controls
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- privacy/consent friction
+- summary nuance can fail
+- storage and credit limits matter
+- bot presence can annoy participants
+- early startup transparency story may affect trust
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- stronger consent UX
+- summary confidence scores
+- cross-meeting insight graph
+- better real-time coaching
+- transparent model/data controls
+
+These matter because the product touches sensitive work: meetings, calendars, company knowledge, career identity, and applications.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- meeting memory graph
+- CRM-safe auto-updates
+- compliance-first transcription
+- AI follow-up agent
+- team decision tracker
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Fireflies.ai is an AI meeting assistant that records, transcribes, summarizes, searches, and syncs meeting intelligence across video meetings, email, chat, CRM, and business apps.
+- Redesign: make consent, quality, cost, and action history more transparent.
+- Remove: hidden automation, unclear credits, and overconfident output claims.
+- Simplify: onboarding, connected-account setup, review workflows, and export.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: saved history, connected accounts, templates, workflow habits, and accumulated context.
+- What creates lock-in: transcripts, workspace data, calendar rules, resume profiles, job-application history, and integrations.
+- Why competitors struggle: they must earn trust in sensitive workflows while matching speed and convenience.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: sales teams, customer success, recruiters, managers, healthcare teams, consultants, and meeting-heavy organizations.
+- Who should avoid it: users who cannot review outputs, need guaranteed accuracy, or have strict policies the product cannot verify.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: broad meeting compatibility, searchable knowledge base, strong integrations.
+- Weaknesses: privacy/consent friction, summary nuance can fail, storage and credit limits matter.
+- Opportunities: meeting memory graph, CRM-safe auto-updates, compliance-first transcription.
+- Threats: privacy incidents, platform API changes, pricing pressure, user distrust, and bundled competitors.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 8/10
+- Features: 9/10
+- Performance: 8/10
+- Customization: 8/10
+- AI: 8/10
+- Automation: 9/10
+- Integrations: 9/10
+- Scalability: 8/10
+- Innovation: 8/10
+- Value for Money: 8/10
+- Overall: 8.3/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: automation inside real workflows, searchable history, templates, and reviewable outputs.
+- Worst ideas to avoid: hidden costs, invisible actions, weak consent, and generic AI output.
+- Innovations worth adapting: convert messy human workflows into structured follow-up and searchable memory.
+- Design principles: make automation visible, reversible, and trustworthy.
+- Architecture principles: scope credentials, log actions, keep exports available, and separate private data from model training.
+- Business lessons: trust is the real moat in sensitive productivity workflows.
+- Product strategy lessons: users adopt automation fastest when it saves time without taking away control.

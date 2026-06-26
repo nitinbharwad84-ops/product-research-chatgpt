@@ -37,3 +37,10 @@ These candidates are not part of the approved report list yet. They should not r
 | Activepieces | Open-source automation | Appeared in Zapier automation comparisons | Zapier | https://www.activepieces.com/ | Open-source automation alternative worth researching. |
 | Bardeen | Browser automation | Appeared in AI automation comparisons | Zapier | https://www.bardeen.ai/ | Useful browser/workflow automation candidate. |
 | Anthropic API | Developer AI platform | Appeared in Claude AI research | Claude AI | https://platform.claude.com/docs | Core developer platform adjacent to Claude chat. |
+
+| Motion | AI calendar | Appeared in Reclaim comparisons | Reclaim.ai | https://www.usemotion.com/ | Important smart-calendar competitor. |
+| Morgen | Calendar/task planner | Appeared in Reclaim pricing review | Reclaim.ai | https://www.morgen.so/ | Candidate for calendar and task scheduling research. |
+| Teal | Career platform | Appeared in resume-builder comparisons | Kickresume; AIApply | https://www.tealhq.com/ | Strong career CRM and resume builder candidate. |
+| Rezi | AI resume builder | Appeared in resume-builder comparisons | Kickresume | https://www.rezi.ai/ | ATS-focused resume competitor. |
+| JobCopilot | Auto-apply tool | Appeared in AIApply comparison research | AIApply | https://jobcopilot.com/ | Direct auto-apply competitor. |
+| JobWizard | Job application autofill | Appeared in AIApply research | AIApply | https://jobwizard.ai/ | Browser-based application automation candidate. |

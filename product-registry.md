@@ -32,11 +32,11 @@ This registry preserves the original list order after deduplicating the repeated
 | 18 | Copy.ai | Copy.ai | Writing And Communication | [reports/writing-and-communication/copy-ai.md](reports/writing-and-communication/copy-ai.md) | Research drafted - batch 004 |
 | 19 | Zapier | Zapier | Automation And Integration | [reports/automation-and-integration/zapier.md](reports/automation-and-integration/zapier.md) | Research drafted - batch 004 |
 | 20 | Claude ai | Claude AI | AI Assistants | [reports/ai-assistants/claude-ai.md](reports/ai-assistants/claude-ai.md) | Research drafted - batch 004 |
-| 21 | Fireflies.ai | Fireflies.ai | Meetings And Transcription | [reports/meetings-and-transcription/fireflies-ai.md](reports/meetings-and-transcription/fireflies-ai.md) | Not started |
-| 22 | Notion AI | Notion AI | Knowledge And Productivity | [reports/knowledge-and-productivity/notion-ai.md](reports/knowledge-and-productivity/notion-ai.md) | Not started |
-| 23 | Reclaim.ai | Reclaim.ai | Calendar And Scheduling | [reports/calendar-and-scheduling/reclaim-ai.md](reports/calendar-and-scheduling/reclaim-ai.md) | Not started |
-| 24 | Kickresume | Kickresume | Career And Hiring | [reports/career-and-hiring/kickresume.md](reports/career-and-hiring/kickresume.md) | Not started |
-| 25 | AIApply | AIApply | Career And Hiring | [reports/career-and-hiring/aiapply.md](reports/career-and-hiring/aiapply.md) | Not started |
+| 21 | Fireflies.ai | Fireflies.ai | Meetings And Transcription | [reports/meetings-and-transcription/fireflies-ai.md](reports/meetings-and-transcription/fireflies-ai.md) | Research drafted - batch 005 |
+| 22 | Notion AI | Notion AI | Knowledge And Productivity | [reports/knowledge-and-productivity/notion-ai.md](reports/knowledge-and-productivity/notion-ai.md) | Research drafted - batch 005 |
+| 23 | Reclaim.ai | Reclaim.ai | Calendar And Scheduling | [reports/calendar-and-scheduling/reclaim-ai.md](reports/calendar-and-scheduling/reclaim-ai.md) | Research drafted - batch 005 |
+| 24 | Kickresume | Kickresume | Career And Hiring | [reports/career-and-hiring/kickresume.md](reports/career-and-hiring/kickresume.md) | Research drafted - batch 005 |
+| 25 | AIApply | AIApply | Career And Hiring | [reports/career-and-hiring/aiapply.md](reports/career-and-hiring/aiapply.md) | Research drafted - batch 005 |
 | 26 | Adobe Firefly | Adobe Firefly | Media Generation | [reports/media-generation/adobe-firefly.md](reports/media-generation/adobe-firefly.md) | Not started |
 | 27 | ElevenLabs | ElevenLabs | Voice And Audio | [reports/voice-and-audio/elevenlabs.md](reports/voice-and-audio/elevenlabs.md) | Not started |
 | 28 | GitHub Copilot | GitHub Copilot | AI Coding | [reports/ai-coding/github-copilot.md](reports/ai-coding/github-copilot.md) | Not started |

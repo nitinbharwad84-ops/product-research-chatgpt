@@ -3,364 +3,300 @@
 - Original list label: Vellum
 - Normalized product name: Vellum
 - Category: AI Development Platforms
-- Status: Not started
+- Status: Research drafted - batch 001
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Vellum developer docs overview](https://docs.vellum.ai/developers/getting-started/overview)
+- [Vellum workflows documentation](https://docs.vellum.ai/product/workflows/introduction)
+- [Vellum evaluations documentation](https://docs.vellum.ai/product/evaluation/quantitative-evaluation)
+- [Vellum online evaluations documentation](https://docs.vellum.ai/product/evaluation/online-evaluations)
+- [Vellum RAG evaluation documentation](https://docs.vellum.ai/product/evaluation/evaluating-rag-pipelines)
+- [Vellum Node SDK GitHub repository](https://github.com/vellum-ai/vellum-client-node)
+- [Vellum AI Apps launch post](https://www.vellum.ai/blog/ai-apps)
+- [ZenML Vellum pricing guide](https://www.zenml.io/blog/vellum-ai-pricing)
+- [Drata Vellum security case study](https://drata.com/customers/vellum)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Vellum is an AI development/LLMOps platform for designing, testing, deploying, evaluating, and monitoring prompts, workflows, RAG systems, and AI applications.
+- Primary users: AI product teams, engineers, product managers, operations teams, and enterprises building production LLM applications.
+- Company: Vellum AI / Vocify, Inc. in current legal docs.
+- Target market: LLMOps, prompt management, workflow orchestration, evaluation, AI app deployment, and observability.
+- Pricing model: public docs describe free/base and paid tiers with provider costs passed through at cost in current pricing pages; third-party pricing commentary may reference older tiers.
+- Business model: SaaS platform with usage, platform, and enterprise pricing elements.
+- Market positioning: a collaborative platform for taking AI products from idea to production-grade feature.
+- Core philosophy: LLM applications need structured experimentation, versioning, evaluation, monitoring, and collaboration instead of ad hoc prompt editing.
+- Product vision: make production AI development reliable for cross-functional teams through workflows, evaluations, deployments, and reusable app surfaces.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? AI teams struggle to move from demos to reliable production because prompts regress, RAG pipelines drift, model behavior changes, and non-technical experts cannot easily collaborate with engineers.
+- Why does this problem exist? LLMs are powerful but isolated; business systems, files, calendars, messages, retrieval stores, and approvals live in separate tools.
+- How did people solve this before? teams used spreadsheets, notebooks, LangChain scripts, prompt playgrounds, custom eval harnesses, logging tools, and manual release notes.
+- Why do users choose this product? users choose Vellum when they want one shared environment for workflow design, prompt versioning, evaluations, deployments, monitoring, and business-user collaboration.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: workflow builder for multi-step AI apps; prompt and deployment management; quantitative evaluations and test suites; online evaluations for production monitoring; RAG/document search evaluation; AI Apps for running workflows through shareable UIs; SDKs and API access including Node SDK; example architectures for RAG, support bots, function calling, debates, and multimodal analysis
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's advanced features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's hidden features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's power user features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise-grade packaging is partially known or unknown from public sources; evaluate permissions, audit, compliance, and support before production adoption.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's ai features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's automation features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's collaboration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's customization features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's security features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's developer features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's api features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's mobile features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is not clearly established; self-hosted/local deployments may keep parts of the runtime available but LLM/provider calls usually need connectivity.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Dedicated accessibility documentation was not found in this batch; chat interfaces may help some users but do not replace WCAG-reviewed UI.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's productivity features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's administration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's analytics features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing is either open-source/self-hosted cost management or SaaS pricing depending on product; detailed billing controls are not fully public.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's notification features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's search features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A team signs up, creates a prompt or workflow, adds test cases, runs evaluations, iterates on model/prompt changes, deploys a version, invokes it by API or AI App, monitors production behavior, and uses online evaluations to catch regressions.
+
+Major screens and interactions include discovery pages, docs or setup guides, authentication/provider configuration, integration setup, task execution, logs/results, and iterative refinement. Where the product is open-source or runtime-first, configuration and chat surfaces substitute for traditional SaaS screens.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+The IA is product-development oriented: prompts, workflows, documents/search, evaluations, deployments, monitoring, API keys, examples, releases, and team/project settings.
+
+Key hierarchy: product/docs -> setup -> providers/integrations -> task/workflow execution -> monitoring/debugging -> settings/security. File/project abstractions are product-specific and should be verified during hands-on testing.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Vellum's UX strength is bridging technical and non-technical users with visual workflows and test reports. The risk is platform breadth: users may need to understand prompts, RAG, evals, deployments, datasets, API calls, and monitoring concepts before extracting full value.
+
+Strengths include a direct path from intent to action, reduced app switching, and reusable automation. Weaknesses include hidden state, technical setup, trust calibration, and the difficulty of showing what an autonomous system is about to do.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+Vellum is model-provider agnostic orchestration and evaluation infrastructure rather than a single model. It supports workflows, prompt nodes, search/RAG nodes, model fallback patterns, online evals, and production monitoring.
+
+Important AI concepts to verify in hands-on testing: prompt hierarchy, memory write rules, memory deletion, model/provider routing, tool-call approval, retry behavior, hallucination handling, and context-window management.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Public docs show workflow graphs, deployments callable through APIs, search API usage, SDKs, test suites, online evaluations, document/RAG support, and monitoring. Node SDK is available on GitHub. Exact backend architecture, cloud provider, and database stack are not fully public.
+
+Unknowns: exact production architecture, database schema, queueing model, secrets-management implementation, and complete observability stack unless directly documented in the linked source code/docs.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Known integration areas include API/SDK, search API, Zapier/Airtable examples, Slack support-bot examples, Cohere rerank examples, Perplexity/Firecrawl examples, LlamaIndex integration material, and model providers through workflow/prompt nodes.
+
+Integration quality should be judged on authentication method, permission scope, failure handling, logging, rate-limit behavior, and whether the integration can be disabled or audited cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation appears through workflows, deployed APIs, AI Apps, online evaluations, monitoring, and examples that chain tools or functions. It is less personal-agent automation and more production AI pipeline automation.
+
+Automation should be tested across triggers, actions, schedules, conditions, approvals, retries, and background tasks. The safest implementation pattern is low-risk task onboarding followed by measured permission expansion.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Vellum is designed for collaborative AI development across engineers and domain experts. Public materials emphasize shared workflow building and evaluation, while exact role permissions and audit depth should be verified from enterprise docs.
+
+For team use, the key missing evaluation areas are shared ownership, role-based access, comments, presence, version history, change review, and audit logs.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes workflows, prompts, variables, test cases, metrics, app UIs, datasets, model choices, fallback logic, and API integrations.
+
+Power users benefit most when customization is explicit, versionable, and reversible rather than hidden inside opaque learned behavior.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Public sources mention SOC 2 and HIPAA through a Drata case study, security/trust materials, and enterprise readiness. Users still need to evaluate data handling with model providers and connected data sources.
+
+Minimum safe-use checklist: scoped credentials, separate accounts for agents, sandboxing or isolated hosts, approval gates for destructive actions, secret rotation, activity logs, and a clear emergency shutdown path.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Performance depends on workflow complexity, model latency, retrieval systems, provider rate limits, and deployment configuration. Evaluations can reduce regressions but introduce their own cost and runtime overhead.
+
+Performance should be evaluated with real workflows, not only demos: cold start, model latency, tool latency, memory retrieval, retries, channel delivery, and long-running task stability.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community includes official docs, release notes, SDK repositories, blog guides, LlamaIndex integration material, third-party reviews, and AI engineering content.
+
+Useful community signals: GitHub activity, issue quality, Discord/Reddit support, independent reviews, security research, tutorial freshness, and changelog cadence.
 
 ## 16. Strengths
 
-- _To be researched._
+- strong workflow plus evaluation pairing
+- collaborative product/engineering surface
+- production deployment and API path
+- RAG evaluation support
+- SDKs and examples help implementation
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- platform can be complex for small teams
+- pricing and packaging have changed across public sources
+- model/runtime costs still accrue through providers
+- less useful if a team already standardized on another eval/observability stack
+- backend architecture details are not fully public
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- clear public migration guides from LangSmith, PromptLayer, and custom eval stacks
+- transparent current enterprise feature matrix
+- more independent benchmark comparisons
+- built-in cost simulation for workflow changes
+- stronger public examples for governance and approval workflows
+
+These matter because autonomous products fail when users cannot understand permissions, predict actions, recover mistakes, or inspect why an agent behaved a certain way.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- AI app store for internal workflows
+- eval-driven CI for prompt/workflow releases
+- cross-functional review gates for AI behavior
+- RAG drift monitoring dashboards
+- workflow cost/risk optimizer
+
+The larger opportunity is to make autonomy legible: users need a product that shows intent, risk, evidence, permissions, and rollback before it asks for trust.
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Vellum is an AI development/LLMOps platform for designing, testing, deploying, evaluating, and monitoring prompts, workflows, RAG systems, and AI applications.
+- Redesign: make permissioning, memory, logs, and approvals first-class rather than secondary setup details.
+- Remove: any default that encourages broad credentials, invisible background work, or unreviewed destructive actions.
+- Simplify: onboarding, provider setup, integration discovery, and debugging paths.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: users stay when the product accumulates useful setup, memory, workflows, integrations, and trust.
+- What creates lock-in: learned skills, configured tools, connected accounts, historical memory, evaluation datasets, or deployed workflows.
+- Why competitors struggle: competitors must match both user trust and operational depth, not just chat quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: AI product teams, engineers, product managers, operations teams, and enterprises building production LLM applications.
+- Who should avoid it: users who cannot monitor autonomous actions, do not want technical setup, or need mature compliance controls immediately.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: strong workflow plus evaluation pairing, collaborative product/engineering surface, production deployment and API path.
+- Weaknesses: platform can be complex for small teams, pricing and packaging have changed across public sources, model/runtime costs still accrue through providers.
+- Opportunities: AI app store for internal workflows, eval-driven CI for prompt/workflow releases, cross-functional review gates for AI behavior.
+- Threats: platform vendors, model-provider changes, security incidents, integration breakage, and user distrust after automation failures.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 7/10 - visual tools help, concepts are advanced
+- Features: 9/10 - broad LLMOps coverage
+- Performance: 7/10 - depends on providers and workflow design
+- Customization: 8/10 - workflows, metrics, apps, APIs
+- AI: 9/10 - purpose-built for AI development
+- Automation: 8/10 - strong pipeline automation
+- Integrations: 8/10 - API, SDK, examples, provider ecosystem
+- Scalability: 8/10 - designed for production teams
+- Innovation: 8/10 - strong eval/workflow/app combination
+- Value for Money: 7/10 - high value for teams, possibly heavy for solo builders
+- Overall: 8.1/10 - strong AI development platform with adoption fit depending on team maturity
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: persistent context, workflow reuse, tool integrations, and source-backed iteration.
+- Worst ideas to avoid: broad permissions, invisible execution, vague guardrails, and memory that users cannot inspect.
+- Innovations worth adapting: the strongest product idea is turning AI from a session into an operational system with memory, tools, and reviewable work.
+- Design principles: make state, permissions, risk, and history visible.
+- Architecture principles: isolate execution, scope credentials, log every action, and make integrations replaceable.
+- Business lessons: trust is a product feature, not a compliance afterthought.
+- Product strategy lessons: autonomy should start narrow, prove reliability, and earn broader access over time.

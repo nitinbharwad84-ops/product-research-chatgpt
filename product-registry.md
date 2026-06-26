@@ -12,11 +12,11 @@ This registry preserves the original list order after deduplicating the repeated
 
 | Order | Original Label | Normalized Name | Category | Report Path | Status |
 |---:|---|---|---|---|---|
-| 1 | Hermes Agent | Hermes Agent | AI Agents | [reports/ai-agents/hermes-agent.md](reports/ai-agents/hermes-agent.md) | Not started |
-| 2 | OpenClaw | OpenClaw | AI Agents | [reports/ai-agents/openclaw.md](reports/ai-agents/openclaw.md) | Not started |
-| 3 | ZeroClaw | ZeroClaw | AI Agents | [reports/ai-agents/zeroclaw.md](reports/ai-agents/zeroclaw.md) | Not started |
-| 4 | TrustClaw | TrustClaw | AI Agents | [reports/ai-agents/trustclaw.md](reports/ai-agents/trustclaw.md) | Not started |
-| 5 | Vellum | Vellum | AI Development Platforms | [reports/ai-development-platforms/vellum.md](reports/ai-development-platforms/vellum.md) | Not started |
+| 1 | Hermes Agent | Hermes Agent | AI Agents | [reports/ai-agents/hermes-agent.md](reports/ai-agents/hermes-agent.md) | Research drafted - batch 001 |
+| 2 | OpenClaw | OpenClaw | AI Agents | [reports/ai-agents/openclaw.md](reports/ai-agents/openclaw.md) | Research drafted - batch 001 |
+| 3 | ZeroClaw | ZeroClaw | AI Agents | [reports/ai-agents/zeroclaw.md](reports/ai-agents/zeroclaw.md) | Research drafted - batch 001 |
+| 4 | TrustClaw | TrustClaw | AI Agents | [reports/ai-agents/trustclaw.md](reports/ai-agents/trustclaw.md) | Research drafted - batch 001 |
+| 5 | Vellum | Vellum | AI Development Platforms | [reports/ai-development-platforms/vellum.md](reports/ai-development-platforms/vellum.md) | Research drafted - batch 001 |
 | 6 | Manus | Manus | AI Agents | [reports/ai-agents/manus.md](reports/ai-agents/manus.md) | Not started |
 | 7 | Lovable | Lovable | AI App Builders | [reports/ai-app-builders/lovable.md](reports/ai-app-builders/lovable.md) | Not started |
 | 8 | bolt | Bolt | AI App Builders | [reports/ai-app-builders/bolt.md](reports/ai-app-builders/bolt.md) | Not started |

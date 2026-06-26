@@ -3,364 +3,297 @@
 - Original list label: Hermes Agent
 - Normalized product name: Hermes Agent
 - Category: AI Agents
-- Status: Not started
+- Status: Research drafted - batch 001
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Hermes Agent documentation](https://hermes-agent.nousresearch.com/docs/)
+- [NousResearch/hermes-agent GitHub repository](https://github.com/nousresearch/hermes-agent)
+- [Hermes Agent AI providers documentation](https://hermes-agent.nousresearch.com/docs/integrations/providers)
+- [Hermes Agent open-source project site](https://hermes-agent.org/)
+- [TechRadar workflow automation article](https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents)
+- [PetronellaTech Hermes Agent guide](https://petronellatech.com/blog/hermes-agent-ai-guide/)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Hermes Agent is a self-hostable personal AI agent from Nous Research focused on persistent memory, learned skills, messaging-channel access, and long-running autonomous work.
+- Primary users: technical founders, AI builders, power users, self-hosting users, and teams experimenting with persistent personal agents.
+- Company: Nous Research.
+- Target market: open-source personal agents and autonomous assistant infrastructure.
+- Pricing model: open-source/self-hosted; direct hosting and provider costs depend on the user's infrastructure and model providers.
+- Business model: open-source ecosystem and model/community leverage; paid hosting or enterprise packaging is not clearly established from public sources.
+- Market positioning: a self-improving, memory-rich personal agent rather than a stateless chatbot or coding-only copilot.
+- Core philosophy: an agent should accumulate user context, reusable skills, and operational memory across sessions.
+- Product vision: a long-lived assistant that can learn how its user works and execute across channels without staying tied to one desktop session.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? chatbots forget operational context, coding agents usually stay trapped in a terminal, and personal automation tools require users to design brittle workflows manually.
+- Why does this problem exist? LLMs are powerful but isolated; business systems, files, calendars, messages, retrieval stores, and approvals live in separate tools.
+- How did people solve this before? users combined ChatGPT/Claude, shell scripts, Zapier-style workflows, calendar/email tools, and note systems with a lot of manual handoff.
+- Why do users choose this product? users choose it when they want a self-hosted agent that can improve through experience, talk through messaging apps, and keep memory under user-controlled infrastructure.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: persistent memory and past-conversation search; automatic skill creation and skill improvement loop; Telegram and other chat-channel access; cloud, VPS, serverless, and local deployment options; provider routing through services such as OpenRouter, Anthropic, Ollama, and vLLM; tool and MCP-style extension surface where available; self-hosting with user-owned credentials
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's advanced features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's hidden features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's power user features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise-grade packaging is partially known or unknown from public sources; evaluate permissions, audit, compliance, and support before production adoption.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's ai features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's automation features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's collaboration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's customization features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's security features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's developer features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's api features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's mobile features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is not clearly established; self-hosted/local deployments may keep parts of the runtime available but LLM/provider calls usually need connectivity.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Dedicated accessibility documentation was not found in this batch; chat interfaces may help some users but do not replace WCAG-reviewed UI.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's productivity features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's administration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's analytics features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing is either open-source/self-hosted cost management or SaaS pricing depending on product; detailed billing controls are not fully public.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's notification features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's search features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A technical user reads the docs, installs the runtime, configures one or more model providers, connects a messaging channel, grants limited tools, tests low-risk tasks, then gradually expands recurring work and memory use as trust grows.
+
+Major screens and interactions include discovery pages, docs or setup guides, authentication/provider configuration, integration setup, task execution, logs/results, and iterative refinement. Where the product is open-source or runtime-first, configuration and chat surfaces substitute for traditional SaaS screens.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+The public product surface is documentation-first: install, providers, integrations, skills, memory, deployment, and GitHub. The product itself appears to be operated through chat channels and configuration rather than a heavy dashboard.
+
+Key hierarchy: product/docs -> setup -> providers/integrations -> task/workflow execution -> monitoring/debugging -> settings/security. File/project abstractions are product-specific and should be verified during hands-on testing.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+The strongest UX idea is continuity: the user speaks to one persistent agent instead of re-explaining context. The tradeoff is setup complexity, debugging opacity, and a learning curve around providers, hosting, permissions, and memory behavior.
+
+Strengths include a direct path from intent to action, reduced app switching, and reusable automation. Weaknesses include hidden state, technical setup, trust calibration, and the difficulty of showing what an autonomous system is about to do.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+Known public architecture centers on LLM providers, tool execution, learned skills, memory, and chat interfaces. The exact prompt hierarchy, memory ranking, and production safety layers are not fully public.
+
+Important AI concepts to verify in hands-on testing: prompt hierarchy, memory write rules, memory deletion, model/provider routing, tool-call approval, retry behavior, hallucination handling, and context-window management.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Public materials describe a self-hosted agent stack that can run on inexpensive VPS infrastructure, cloud VMs, serverless infrastructure, or local machines. It integrates with hosted and local inference providers and appears designed for extensible tools and persistent data stores, but implementation details should be verified from the repository before production use.
+
+Unknowns: exact production architecture, database schema, queueing model, secrets-management implementation, and complete observability stack unless directly documented in the linked source code/docs.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Known integrations include model providers such as OpenRouter, Anthropic, Ollama, and vLLM; messaging channels such as Telegram; and tool/plugin integrations exposed by the agent runtime. Complete integration coverage is unknown.
+
+Integration quality should be judged on authentication method, permission scope, failure handling, logging, rate-limit behavior, and whether the integration can be disabled or audited cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Hermes supports task execution through tools, long-running workflows, learned skills, and recurring interaction patterns. Strong autonomy depends on what tools and credentials the operator configures.
+
+Automation should be tested across triggers, actions, schedules, conditions, approvals, retries, and background tasks. The safest implementation pattern is low-risk task onboarding followed by measured permission expansion.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+The product is primarily personal-agent oriented. Team roles, shared workspaces, approval queues, and enterprise audit logs are not clearly established in public sources.
+
+For team use, the key missing evaluation areas are shared ownership, role-based access, comments, presence, version history, change review, and audit logs.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization comes through provider choice, hosting choice, tools, skills, memory, and channel configuration. GUI-level theming or workspace layout customization is not a core public emphasis.
+
+Power users benefit most when customization is explicit, versionable, and reversible rather than hidden inside opaque learned behavior.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Security depends heavily on self-hosting discipline: least-privilege credentials, isolated runtime, provider data policies, memory hygiene, and monitoring. Public docs emphasize user-controlled deployment, but autonomous agents remain high-risk when connected to real accounts.
+
+Minimum safe-use checklist: scoped credentials, separate accounts for agents, sandboxing or isolated hosts, approval gates for destructive actions, secret rotation, activity logs, and a clear emergency shutdown path.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Performance depends on model provider latency, hosting environment, tool execution, and memory retrieval. A lightweight VPS setup may be affordable, but reliability for always-on work depends on operator infrastructure.
+
+Performance should be evaluated with real workflows, not only demos: cold start, model latency, tool latency, memory retrieval, retries, channel delivery, and long-running task stability.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community is centered around Nous Research, GitHub, docs, tutorials, and emerging agent-builder discussions. The ecosystem is newer than mainstream automation tools.
+
+Useful community signals: GitHub activity, issue quality, Discord/Reddit support, independent reviews, security research, tutorial freshness, and changelog cadence.
 
 ## 16. Strengths
 
-- _To be researched._
+- clear differentiation around self-improvement and memory
+- self-hosting gives power users control
+- messaging-channel interface reduces friction
+- provider flexibility avoids one-model lock-in
+- learned skills create a path beyond prompt repetition
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- requires technical setup and operational judgment
+- public evidence for enterprise governance is limited
+- memory and autonomy can create privacy and safety risk
+- debugging learned behavior may be difficult
+- less mature than conventional SaaS productivity tools
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- first-class permission dashboard
+- human approval queue for risky tasks
+- team workspace and audit trail
+- memory inspection and selective deletion UX
+- turn-by-turn observability for tool calls
+
+These matter because autonomous products fail when users cannot understand permissions, predict actions, recover mistakes, or inspect why an agent behaved a certain way.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- agent memory control center
+- personal SOP learning from repeated corrections
+- safe onboarding with simulated accounts
+- skill marketplace with security review
+- portable memory layer across assistants
+
+The larger opportunity is to make autonomy legible: users need a product that shows intent, risk, evidence, permissions, and rollback before it asks for trust.
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Hermes Agent is a self-hostable personal AI agent from Nous Research focused on persistent memory, learned skills, messaging-channel access, and long-running autonomous work.
+- Redesign: make permissioning, memory, logs, and approvals first-class rather than secondary setup details.
+- Remove: any default that encourages broad credentials, invisible background work, or unreviewed destructive actions.
+- Simplify: onboarding, provider setup, integration discovery, and debugging paths.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: users stay when the product accumulates useful setup, memory, workflows, integrations, and trust.
+- What creates lock-in: learned skills, configured tools, connected accounts, historical memory, evaluation datasets, or deployed workflows.
+- Why competitors struggle: competitors must match both user trust and operational depth, not just chat quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: technical founders, AI builders, power users, self-hosting users, and teams experimenting with persistent personal agents.
+- Who should avoid it: users who cannot monitor autonomous actions, do not want technical setup, or need mature compliance controls immediately.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: clear differentiation around self-improvement and memory, self-hosting gives power users control, messaging-channel interface reduces friction.
+- Weaknesses: requires technical setup and operational judgment, public evidence for enterprise governance is limited, memory and autonomy can create privacy and safety risk.
+- Opportunities: agent memory control center, personal SOP learning from repeated corrections, safe onboarding with simulated accounts.
+- Threats: platform vendors, model-provider changes, security incidents, integration breakage, and user distrust after automation failures.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 6/10 - powerful but technical to configure
+- Features: 8/10 - strong agent, memory, provider, and skill direction
+- Performance: 7/10 - depends on hosting and providers
+- Customization: 8/10 - strong for technical users
+- AI: 9/10 - AI is the core product
+- Automation: 8/10 - high potential with configured tools
+- Integrations: 7/10 - promising but exact breadth should be verified
+- Scalability: 6/10 - personal-agent scaling is clearer than enterprise scaling
+- Innovation: 9/10 - strong self-improving-agent thesis
+- Value for Money: 8/10 - open-source economics can be strong if the user can operate it
+- Overall: 7.6/10 - highly interesting, but operational maturity matters
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: persistent context, workflow reuse, tool integrations, and source-backed iteration.
+- Worst ideas to avoid: broad permissions, invisible execution, vague guardrails, and memory that users cannot inspect.
+- Innovations worth adapting: the strongest product idea is turning AI from a session into an operational system with memory, tools, and reviewable work.
+- Design principles: make state, permissions, risk, and history visible.
+- Architecture principles: isolate execution, scope credentials, log every action, and make integrations replaceable.
+- Business lessons: trust is a product feature, not a compliance afterthought.
+- Product strategy lessons: autonomy should start narrow, prove reliability, and earn broader access over time.

@@ -3,364 +3,297 @@
 - Original list label: TrustClaw
 - Normalized product name: TrustClaw
 - Category: AI Agents
-- Status: Not started
+- Status: Research drafted - batch 001
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [ComposioHQ/trustclaw GitHub repository](https://github.com/ComposioHQ/trustclaw)
+- [Composio OpenClaw alternatives article](https://composio.dev/content/openclaw-alternatives)
+- [Vellum TrustClaw alternatives article](https://www.vellum.ai/blog/best-trustclaw-alternatives)
+- [SourceForge TrustClaw mirror](https://sourceforge.net/projects/trustclaw.mirror/)
+- [Progressive Robot TrustClaw setup guide](https://www.progressiverobot.com/2026/04/09/how-to-set-up-trustclaw/)
+- [YouTube TrustClaw security interview](https://www.youtube.com/watch?v=DpfjQ0nBVVI)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: TrustClaw is a self-hostable personal AI assistant built around OAuth-connected tools, sandboxed execution, memory, and safer autonomous work.
+- Primary users: users who like OpenClaw-style personal agents but want stronger permission, OAuth, and sandboxing defaults.
+- Company: ComposioHQ according to the public GitHub repository.
+- Target market: secure self-hostable personal AI agents and agent-tool integration platforms.
+- Pricing model: open-source/self-hosted from GitHub; hosted or commercial pricing is not clearly established.
+- Business model: open-source project tied to Composio's broader tool-integration ecosystem.
+- Market positioning: a security-focused OpenClaw alternative with 1000+ OAuth tools and sandboxed execution.
+- Core philosophy: agents should do useful work without scattering raw credentials across local config files.
+- Product vision: a 24/7 personal assistant that can safely act while the user sleeps by using controlled credentials, sandboxing, and memory.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? generalist personal agents are powerful but often unsafe because credentials, tool execution, and broad permissions are difficult to govern.
+- Why does this problem exist? LLMs are powerful but isolated; business systems, files, calendars, messages, retrieval stores, and approvals live in separate tools.
+- How did people solve this before? users self-hosted OpenClaw-style tools, wrote custom OAuth apps, used Zapier/Make, or gave assistants broad API keys and hoped prompt guardrails were enough.
+- Why do users choose this product? users choose TrustClaw for a more security-centered agent model, Composio-style tool access, OAuth, and deployment that can run continuously.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: self-hostable 24/7 personal assistant; 1000+ tools via OAuth in public positioning; sandboxed execution; web and Telegram interfaces; persistent memory; recurring work/autopilot behavior; Vercel self-hosting path
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's advanced features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's hidden features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's power user features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise-grade packaging is partially known or unknown from public sources; evaluate permissions, audit, compliance, and support before production adoption.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's ai features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's automation features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's collaboration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's customization features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's security features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's developer features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's api features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's mobile features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is not clearly established; self-hosted/local deployments may keep parts of the runtime available but LLM/provider calls usually need connectivity.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Dedicated accessibility documentation was not found in this batch; chat interfaces may help some users but do not replace WCAG-reviewed UI.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's productivity features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's administration features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's analytics features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing is either open-source/self-hosted cost management or SaaS pricing depending on product; detailed billing controls are not fully public.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's notification features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Relevant capabilities exist through the product's search features surface, but exact coverage should be verified against current docs and the running product.
+- Why it exists: To turn AI from one-off answers into repeatable operational capability.
+- User benefit: Users can move faster while keeping more control over setup, workflow, or production behavior.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user deploys TrustClaw, connects an identity/tool account through OAuth, starts with low-risk tasks in web or Telegram, schedules recurring tasks, reviews behavior, and expands permissions only when the agent proves reliable.
+
+Major screens and interactions include discovery pages, docs or setup guides, authentication/provider configuration, integration setup, task execution, logs/results, and iterative refinement. Where the product is open-source or runtime-first, configuration and chat surfaces substitute for traditional SaaS screens.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+TrustClaw's IA appears centered on setup, OAuth-connected tools, memory, tasks, recurring work, and chat surfaces. Full product navigation should be verified from the running app.
+
+Key hierarchy: product/docs -> setup -> providers/integrations -> task/workflow execution -> monitoring/debugging -> settings/security. File/project abstractions are product-specific and should be verified during hands-on testing.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+The strongest UX is trust framing: users can understand why OAuth and sandboxing matter. The challenge is making permission scope clear enough for non-technical users without burying them in security concepts.
+
+Strengths include a direct path from intent to action, reduced app switching, and reusable automation. Weaknesses include hidden state, technical setup, trust calibration, and the difficulty of showing what an autonomous system is about to do.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+TrustClaw combines LLM-driven task handling with persistent memory and external tools. Exact models, prompt design, planner/executor split, and memory retrieval strategy are not fully documented in public summaries.
+
+Important AI concepts to verify in hands-on testing: prompt hierarchy, memory write rules, memory deletion, model/provider routing, tool-call approval, retry behavior, hallucination handling, and context-window management.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Public sources indicate a self-hostable app, Vercel deployment, OAuth tool integrations, sandboxed execution, persistent memory with Postgres/pgvector mentioned by third-party coverage, and web/Telegram interfaces. Repo inspection is needed for exact architecture.
+
+Unknowns: exact production architecture, database schema, queueing model, secrets-management implementation, and complete observability stack unless directly documented in the linked source code/docs.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+The headline integration value is 1000+ OAuth tools through Composio. Publicly mentioned surfaces include web and Telegram. Exact native integrations should be generated from the repository or Composio catalog during deeper implementation.
+
+Integration quality should be judged on authentication method, permission scope, failure handling, logging, rate-limit behavior, and whether the integration can be disabled or audited cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+TrustClaw supports recurring work, scheduled tasks, tool actions, and background assistant behavior. Vercel free-tier cron limits are a possible constraint mentioned in third-party commentary.
+
+Automation should be tested across triggers, actions, schedules, conditions, approvals, retries, and background tasks. The safest implementation pattern is low-risk task onboarding followed by measured permission expansion.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+The product is personal-agent focused. Team roles, shared workspaces, comments, version history, and enterprise audit logs are not clearly established.
+
+For team use, the key missing evaluation areas are shared ownership, role-based access, comments, presence, version history, change review, and audit logs.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization comes from deployed environment, connected tools, OAuth scopes, prompts/instructions, memory, and schedules. Template/plugin marketplace maturity is unknown.
+
+Power users benefit most when customization is explicit, versionable, and reversible rather than hidden inside opaque learned behavior.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+TrustClaw's product thesis is security: OAuth, sandboxing, and controlled tool execution. However, sandboxing and OAuth do not automatically solve prompt injection, cross-app permission chains, or agent misuse, so approval and observability remain important.
+
+Minimum safe-use checklist: scoped credentials, separate accounts for agents, sandboxing or isolated hosts, approval gates for destructive actions, secret rotation, activity logs, and a clear emergency shutdown path.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Performance depends on hosted environment, Vercel limits, model provider latency, tool APIs, and memory store. Always-on reliability may need paid infrastructure for serious use.
+
+Performance should be evaluated with real workflows, not only demos: cold start, model latency, tool latency, memory retrieval, retries, channel delivery, and long-running task stability.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community evidence is newer and largely around GitHub, Composio content, setup guides, SourceForge mirror, and YouTube interviews. Adoption appears earlier than OpenClaw.
+
+Useful community signals: GitHub activity, issue quality, Discord/Reddit support, independent reviews, security research, tutorial freshness, and changelog cadence.
 
 ## 16. Strengths
 
-- _To be researched._
+- security-centered positioning
+- OAuth avoids raw-key sprawl
+- broad Composio tool story
+- self-hostable deployment
+- web and Telegram access
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- public maturity is still emerging
+- depends on Composio ecosystem strength
+- Vercel/serverless constraints can limit scheduling
+- sandboxing may create false confidence
+- full enterprise governance is unclear
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- visible policy simulator
+- per-action approval inbox
+- audit timeline and rollback
+- permission-diff review when adding tools
+- benchmarked security model
+
+These matter because autonomous products fail when users cannot understand permissions, predict actions, recover mistakes, or inspect why an agent behaved a certain way.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- agent identity and permission vault
+- OAuth-scope recommender for tasks
+- risk-scored tool marketplace
+- compliance-friendly personal agent logs
+- secure migration path from OpenClaw
+
+The larger opportunity is to make autonomy legible: users need a product that shows intent, risk, evidence, permissions, and rollback before it asks for trust.
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: TrustClaw is a self-hostable personal AI assistant built around OAuth-connected tools, sandboxed execution, memory, and safer autonomous work.
+- Redesign: make permissioning, memory, logs, and approvals first-class rather than secondary setup details.
+- Remove: any default that encourages broad credentials, invisible background work, or unreviewed destructive actions.
+- Simplify: onboarding, provider setup, integration discovery, and debugging paths.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: users stay when the product accumulates useful setup, memory, workflows, integrations, and trust.
+- What creates lock-in: learned skills, configured tools, connected accounts, historical memory, evaluation datasets, or deployed workflows.
+- Why competitors struggle: competitors must match both user trust and operational depth, not just chat quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: users who like OpenClaw-style personal agents but want stronger permission, OAuth, and sandboxing defaults.
+- Who should avoid it: users who cannot monitor autonomous actions, do not want technical setup, or need mature compliance controls immediately.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: security-centered positioning, OAuth avoids raw-key sprawl, broad Composio tool story.
+- Weaknesses: public maturity is still emerging, depends on Composio ecosystem strength, Vercel/serverless constraints can limit scheduling.
+- Opportunities: agent identity and permission vault, OAuth-scope recommender for tasks, risk-scored tool marketplace.
+- Threats: platform vendors, model-provider changes, security incidents, integration breakage, and user distrust after automation failures.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 7/10 - self-hosting still requires skill, but OAuth can simplify integrations
+- Features: 7/10 - strong tool and memory promise
+- Performance: 6/10 - serverless and provider limits may matter
+- Customization: 8/10 - self-hosting plus tool scopes
+- AI: 8/10 - agentic AI is central
+- Automation: 8/10 - recurring and tool-based work
+- Integrations: 9/10 - Composio tool breadth is a major advantage
+- Scalability: 6/10 - personal scaling clearer than enterprise governance
+- Innovation: 8/10 - security-first agent framing is strong
+- Value for Money: 8/10 - strong if self-hosted effectively
+- Overall: 7.5/10 - promising safer-agent direction with maturity to prove
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: persistent context, workflow reuse, tool integrations, and source-backed iteration.
+- Worst ideas to avoid: broad permissions, invisible execution, vague guardrails, and memory that users cannot inspect.
+- Innovations worth adapting: the strongest product idea is turning AI from a session into an operational system with memory, tools, and reviewable work.
+- Design principles: make state, permissions, risk, and history visible.
+- Architecture principles: isolate execution, scope credentials, log every action, and make integrations replaceable.
+- Business lessons: trust is a product feature, not a compliance afterthought.
+- Product strategy lessons: autonomy should start narrow, prove reliability, and earn broader access over time.

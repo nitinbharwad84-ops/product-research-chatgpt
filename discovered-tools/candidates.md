@@ -30,3 +30,10 @@ These candidates are not part of the approved report list yet. They should not r
 | Beautiful.ai | Presentation tool | Appeared in Gamma competitive context | Gamma | https://www.beautiful.ai/ | Useful for presentation automation and brand-governed deck research. |
 | Prezi | Presentation platform | Appeared in Gamma competitive context | Gamma | https://prezi.com/ | Useful for alternative visual presentation workflows. |
 | OpenStax | Educational content | Appeared in NotebookLM education/source workflow reporting | NotebookLM | https://openstax.org/ | Useful source/content partner pattern for trusted learning workflows. |
+
+| Perplexity Comet | AI browser | Appeared during Perplexity research | Perplexity AI | https://www.perplexity.ai/comet | Important agentic-browser pattern to evaluate separately. |
+| Writesonic | AI writing/GTM tool | Appeared in Copy.ai and Jasper competitive context | Jasper AI; Copy.ai | https://writesonic.com/ | Candidate writing and marketing automation competitor. |
+| Relevance AI | AI agent platform | Appeared in Zapier/Lindy automation comparisons | Zapier; Lindy | https://relevanceai.com/ | Candidate for agent workforce and no-code automation research. |
+| Activepieces | Open-source automation | Appeared in Zapier automation comparisons | Zapier | https://www.activepieces.com/ | Open-source automation alternative worth researching. |
+| Bardeen | Browser automation | Appeared in AI automation comparisons | Zapier | https://www.bardeen.ai/ | Useful browser/workflow automation candidate. |
+| Anthropic API | Developer AI platform | Appeared in Claude AI research | Claude AI | https://platform.claude.com/docs | Core developer platform adjacent to Claude chat. |

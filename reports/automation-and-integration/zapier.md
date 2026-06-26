@@ -3,364 +3,297 @@
 - Original list label: Zapier
 - Normalized product name: Zapier
 - Category: Automation And Integration
-- Status: Not started
+- Status: Research drafted - batch 004
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Zapier official site](https://zapier.com/)
+- [Zapier pricing](https://zapier.com/pricing)
+- [Zapier integrations](https://zapier.com/apps)
+- [Zapier AI agents guide](https://zapier.com/blog/best-ai-agents/)
+- [Zapier MCP](https://zapier.com/mcp)
+- [Zapier developer platform](https://platform.zapier.com/)
+- [Arahi AI Zapier vs agents comparison](https://arahi.ai/blog/ai-agent-vs-zapier-automation-comparison-2025)
+- [TechRadar AI tools Zapier coverage](https://www.techradar.com/best/best-ai-tools)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Zapier is a no-code automation platform connecting thousands of apps with triggers, actions, multi-step workflows, AI-powered builders, agents, MCP, and developer extensibility.
+- Primary users: non-technical teams, operations teams, marketers, sales teams, support teams, founders, agencies, and developers building integrations.
+- Company: Zapier.
+- Target market: workflow automation, iPaaS, no-code integration, AI automation, and app connectivity.
+- Pricing model: free and paid plans with task/usage limits; paid plans commonly start around the low-$20/month range when billed annually, but current pricing should be checked.
+- Business model: subscription and usage-based SaaS with team, company, and enterprise tiers.
+- Market positioning: connect your apps and automate work without code.
+- Core philosophy: business users should be able to automate cross-app work without waiting for engineering.
+- Product vision: a universal automation layer for business apps, now expanded with AI builders and agents.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? business processes span many SaaS tools, causing repetitive copy/paste, missed handoffs, and fragile manual coordination.
+- Why does this problem exist? Work is fragmented across sources, apps, teams, and formats, while AI quality depends heavily on context and governance.
+- How did people solve this before? teams wrote custom scripts, used spreadsheets, hired ops specialists, relied on app-native integrations, or manually moved data between tools.
+- Why do users choose this product? users choose Zapier for massive integration coverage, templates, predictable trigger/action automation, AI-assisted workflow creation, and broad ecosystem trust.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Zaps, triggers, actions, filters, paths, schedules, tables, interfaces, webhooks, app integrations, AI actions, AI agents, Copilot-style builders, MCP, developer platform, team/admin controls, and task history
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile or browser/desktop app availability exists where documented, but exact parity with web/desktop should be verified.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is limited or not the main value; most capabilities require cloud AI, SaaS APIs, or connected apps.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Accessibility Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features exist where documented, but exact scope depends on plan, workspace, and current product release.
+- Why it exists: To make the product operationally useful instead of a one-off AI demo.
+- User benefit: Users get faster output, better control, and more repeatable workflows.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user chooses a template or describes an automation, connects apps, maps fields, tests a trigger/action, turns on the Zap, monitors runs, debugs failed tasks, and expands into multi-step workflows or AI agents.
+
+The journey matures from first useful output to trusted daily workflow, then to team/admin/API use where the product supports it.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+IA includes dashboard, Zaps, templates, apps, task history, tables, interfaces, agents, MCP, billing/tasks, connected accounts, team/admin, and developer platform.
+
+Good IA for this category keeps tasks, history, integrations, usage, and governance easy to inspect.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Zapier is approachable for simple automations and powerful for ops teams. Complexity rises with multi-step logic, task costs, error handling, and AI-agent behavior.
+
+Strengths are speed and lower friction; weaknesses are hidden limits, trust calibration, and the need to verify AI outputs before business use.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+AI appears in workflow building, AI actions, agents, app-connected AI workflows, and MCP so AI assistants can take actions across Zapier-connected apps.
+
+AI should be evaluated for grounding, controllability, model transparency, context handling, safety behavior, and failure recovery.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Zapier is a mature hosted automation platform with trigger polling/webhooks, app connectors, task execution, developer platform, logs, credentials, and governance controls. Exact internals are not public.
+
+Unknowns include internal model routing, ranking, storage architecture, data retention implementation, and evaluation infrastructure unless publicly documented.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Zapier markets thousands of app integrations, webhooks, developer-built apps, MCP, and AI-agent action surfaces.
+
+Integration value depends on depth, permissions, failure handling, exportability, and whether connected actions are auditable.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation is Zapier's core: triggers, actions, paths, filters, delays, schedules, webhooks, AI actions, agents, and reusable templates.
+
+Automation should include clear triggers, actions, approvals, logs, retries, and cost/usage visibility.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Team/company plans support shared workflows, connected accounts, folders, admin, governance, and enterprise controls.
+
+Collaboration quality should be tested through shared workspaces, roles, comments, version history, analytics, and admin governance.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes multi-step logic, custom webhooks, code steps, developer platform apps, tables/interfaces, and AI instructions.
+
+Customization is strongest when users can encode brand, process, sources, prompts, and permissions without locking themselves in.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Enterprise controls include app/account governance, admin settings, SSO-style features on higher tiers, logs, and credential management; users must still scope connected accounts carefully.
+
+Security diligence should include data-use policy, training opt-outs, SSO/SCIM, encryption, audit logs, retention, and connected-app permissions.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Reliable for broad business automation, but polling intervals, task limits, error retries, and app API limits affect time-sensitive workflows.
+
+Performance should be measured by correct completed work, not only latency: accuracy, retry behavior, cost, uptime, and output quality all matter.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Huge ecosystem of templates, experts, freelancers, developers, YouTube tutorials, agencies, and app partners.
+
+Community evidence is useful for real complaints, but official docs should anchor factual feature claims.
 
 ## 16. Strengths
 
-- _To be researched._
+- massive integration library
+- mature automation patterns
+- non-technical accessibility
+- templates and ecosystem
+- AI/MCP expansion
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- task pricing can scale quickly
+- complex workflows get hard to debug
+- polling delays limit real-time use
+- AI agents add unpredictability
+- some app connectors are shallow
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- clearer cost simulation
+- visual run replay
+- stronger mobile management
+- native process mining
+- AI action risk scoring
+
+These features matter because AI users need evidence, controls, and predictable costs before adopting the product as infrastructure.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- AI automation governance
+- MCP action marketplace
+- ops observability layer
+- workflow cost optimizer
+- human approval inbox for AI agents
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Zapier is a no-code automation platform connecting thousands of apps with triggers, actions, multi-step workflows, AI-powered builders, agents, MCP, and developer extensibility.
+- Redesign: make verification, permissions, cost, and workflow state first-class.
+- Remove: opaque limits, hidden model behavior, and claims that cannot be verified.
+- Simplify: onboarding, admin setup, integration selection, and failure recovery.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: history, habits, integrations, trust, templates, APIs, team setup, and accumulated context.
+- What creates lock-in: saved workflows, sources, brand knowledge, connected apps, enterprise policies, and generated artifacts.
+- Why competitors struggle: they must compete on workflow, trust, and distribution, not just model quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: non-technical teams, operations teams, marketers, sales teams, support teams, founders, agencies, and developers building integrations.
+- Who should avoid it: users who need zero-review automation, fixed offline operation, or compliance guarantees not covered by the plan.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: massive integration library, mature automation patterns, non-technical accessibility.
+- Weaknesses: task pricing can scale quickly, complex workflows get hard to debug, polling delays limit real-time use.
+- Opportunities: AI automation governance, MCP action marketplace, ops observability layer.
+- Threats: bundled platform AI, model commoditization, privacy concerns, pricing pressure, and user fatigue from low-quality AI output.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 8/10
+- Features: 10/10
+- Performance: 8/10
+- Customization: 9/10
+- AI: 8/10
+- Automation: 10/10
+- Integrations: 10/10
+- Scalability: 9/10
+- Innovation: 8/10
+- Value for Money: 7/10
+- Overall: 8.8/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: context-aware AI, integrations, citations or governance, reusable workflows, and clear distribution.
+- Worst ideas to avoid: opaque pricing, shallow integrations, unverifiable outputs, and weak admin/security defaults.
+- Innovations worth adapting: AI becomes more valuable when it is embedded into real workflows and source systems.
+- Design principles: expose context, confidence, cost, and control.
+- Architecture principles: log everything important, separate retrieval from generation, scope permissions, and design for export.
+- Business lessons: defensibility comes from workflow ownership, not generic text generation alone.
+- Product strategy lessons: products should evolve from single-task AI into trusted operating layers only after they earn user confidence.

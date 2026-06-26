@@ -27,11 +27,11 @@ This registry preserves the original list order after deduplicating the repeated
 | 13 | Gamma | Gamma | Presentations And Documents | [reports/presentations-and-documents/gamma.md](reports/presentations-and-documents/gamma.md) | Research drafted - batch 003 |
 | 14 | NotebookLM | NotebookLM | Knowledge And Research | [reports/knowledge-and-research/notebooklm.md](reports/knowledge-and-research/notebooklm.md) | Research drafted - batch 003 |
 | 15 | Grammarly | Grammarly | Writing And Communication | [reports/writing-and-communication/grammarly.md](reports/writing-and-communication/grammarly.md) | Research drafted - batch 003 |
-| 16 | Perplexity AI | Perplexity AI | Knowledge And Research | [reports/knowledge-and-research/perplexity-ai.md](reports/knowledge-and-research/perplexity-ai.md) | Not started |
-| 17 | Jasper AI | Jasper AI | Writing And Communication | [reports/writing-and-communication/jasper-ai.md](reports/writing-and-communication/jasper-ai.md) | Not started |
-| 18 | Copy.ai | Copy.ai | Writing And Communication | [reports/writing-and-communication/copy-ai.md](reports/writing-and-communication/copy-ai.md) | Not started |
-| 19 | Zapier | Zapier | Automation And Integration | [reports/automation-and-integration/zapier.md](reports/automation-and-integration/zapier.md) | Not started |
-| 20 | Claude ai | Claude AI | AI Assistants | [reports/ai-assistants/claude-ai.md](reports/ai-assistants/claude-ai.md) | Not started |
+| 16 | Perplexity AI | Perplexity AI | Knowledge And Research | [reports/knowledge-and-research/perplexity-ai.md](reports/knowledge-and-research/perplexity-ai.md) | Research drafted - batch 004 |
+| 17 | Jasper AI | Jasper AI | Writing And Communication | [reports/writing-and-communication/jasper-ai.md](reports/writing-and-communication/jasper-ai.md) | Research drafted - batch 004 |
+| 18 | Copy.ai | Copy.ai | Writing And Communication | [reports/writing-and-communication/copy-ai.md](reports/writing-and-communication/copy-ai.md) | Research drafted - batch 004 |
+| 19 | Zapier | Zapier | Automation And Integration | [reports/automation-and-integration/zapier.md](reports/automation-and-integration/zapier.md) | Research drafted - batch 004 |
+| 20 | Claude ai | Claude AI | AI Assistants | [reports/ai-assistants/claude-ai.md](reports/ai-assistants/claude-ai.md) | Research drafted - batch 004 |
 | 21 | Fireflies.ai | Fireflies.ai | Meetings And Transcription | [reports/meetings-and-transcription/fireflies-ai.md](reports/meetings-and-transcription/fireflies-ai.md) | Not started |
 | 22 | Notion AI | Notion AI | Knowledge And Productivity | [reports/knowledge-and-productivity/notion-ai.md](reports/knowledge-and-productivity/notion-ai.md) | Not started |
 | 23 | Reclaim.ai | Reclaim.ai | Calendar And Scheduling | [reports/calendar-and-scheduling/reclaim-ai.md](reports/calendar-and-scheduling/reclaim-ai.md) | Not started |

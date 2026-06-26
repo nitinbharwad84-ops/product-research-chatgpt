@@ -3,364 +3,297 @@
 - Original list label: emergent
 - Normalized product name: Emergent
 - Category: AI App Builders
-- Status: Not started
+- Status: Research drafted - batch 002
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Emergent official site](https://emergent.sh/)
+- [Emergent help center](https://help.emergent.sh/)
+- [Emergent pricing](https://emergent.sh/pricing)
+- [Emergent plans and credits](https://help.emergent.sh/plans-and-credits)
+- [Emergent Supabase integration](https://emergent.sh/integrations/supabase)
+- [Banani Emergent review](https://www.banani.co/blog/emergent-ai-review)
+- [Trustpilot Emergent reviews](https://www.trustpilot.com/review/emergent.sh)
+- [Reddit Emergent experience discussion](https://www.reddit.com/r/vibecoding/comments/1mpxsea/my_emergentsh_experience_expensive_unstable_and/)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Emergent is an AI app builder for creating production-oriented web and mobile apps through conversation with agents that design, code, test, and deploy.
+- Primary users: non-coders, founders, PMs, designers, agencies, and developers building web/mobile MVPs.
+- Company: Emergent.
+- Target market: AI app builders, no-code/low-code, vibe coding, and AI-powered full-stack/mobile development.
+- Pricing model: official pricing includes Free, Standard, Pro, and Enterprise-style tiers; public docs mention $20/month Standard and $200/month Pro with credits and advanced capabilities.
+- Business model: credit-based subscription SaaS with enterprise options.
+- Market positioning: build production-ready apps through conversation from start to finish.
+- Core philosophy: users should describe the desired product and have specialized AI agents handle planning, code, testing, and deployment.
+- Product vision: compress software creation from idea to deployed app for users who do not want to manage a full engineering workflow.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? building full-stack and mobile apps requires product specs, design, frontend, backend, database, testing, deployment, and iteration.
+- Why does this problem exist? The work spans multiple tools, requires context, and often needs both generation and execution.
+- How did people solve this before? users hired developers, used no-code builders, created Figma prototypes, or combined Cursor/Bolt/Lovable/Replit with deployment tools.
+- Why do users choose this product? users choose Emergent for a conversation-first builder, web/mobile support, GitHub integration, live preview, testing, deployment, and higher-end agent controls on Pro.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI website/app builder, mobile experiences, live preview, testing, deployment, GitHub integration, Supabase integration, credits, Standard/Pro plans, 1M context window, Ultra Thinking Mode, system prompt editing, custom agent creation, priority support
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is not a core documented strength unless exported/self-hosted code continues to run independently.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Dedicated accessibility documentation was not prominent in this batch; generated or captured outputs should be checked against accessibility standards.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user signs up, describes an app, reviews generated plan/design/code, uses live preview, asks the agent to debug or add features, connects integrations such as Supabase/GitHub, deploys, and spends credits as the build evolves.
+
+The important interactions are onboarding, prompt/task creation, preview or work execution, iteration, integration setup, publishing/export/sync, and long-term review of history or outputs.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+Main IA appears to include projects, chat/agent workspace, preview, tests, deployment, GitHub, integrations, credits/plans, and support/help.
+
+The best IA pattern for this class is project/task first, with integrations, settings, billing, history, and security kept visible rather than buried.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Emergent is attractive because the user can ask for complete apps in plain English. The risk is cost opacity during iteration: credits, failed loops, and agent stalls can turn a simple flow into a stressful spend-management problem.
+
+Strong UX patterns include live feedback, visible progress, easy rollback, and low-friction publishing. Weak UX patterns include hidden cost burn, invisible execution state, and unclear recovery.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+Emergent is agentic: public sources describe agents for planning/building/testing/deploying, large context on Pro, Ultra Thinking Mode, system prompt editing, and custom agents.
+
+Key AI questions for deeper testing: model choice, context limits, hallucination controls, testing, retry behavior, memory/history, and whether the user can inspect why a result changed.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Public sources describe generated web and mobile apps, GitHub integration, Supabase workflows, deployment, testing, and advanced model access. Exact production architecture and generated-stack defaults should be verified per project.
+
+Unknowns should be checked by hands-on testing and source review: generated-code quality, deployment topology, data retention, model providers, queueing, observability, and rollback behavior.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Known integrations include GitHub and Supabase. Official pages also position integrations and IP address resources; full integration list should be verified in the app.
+
+Each integration should be evaluated for authentication, permission scope, sync direction, failure handling, and whether the user can export or disconnect cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Emergent automates code generation, debugging, test/deploy loops, GitHub-connected workflows, and backend setup. It is software-building automation rather than general business process automation.
+
+Important automation checks: triggers, actions, schedules, human approvals, retries, logs, background execution, and whether failed work consumes credits or creates broken state.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Team/enterprise collaboration details are less public than pricing and build features. GitHub can support external collaboration, but in-product roles and review flows require verification.
+
+Collaboration quality depends on roles, comments, review flows, sharing, branches, audit logs, and whether non-technical users can work safely with developers.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization includes prompt iteration, stack choices where supported, Pro system prompt editing, custom agents, integrations, GitHub-connected code, and mobile/web project targets.
+
+The best customization is portable: code, data, templates, prompts, settings, and integrations should be inspectable and exportable.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Security depends on generated code review, auth/backend correctness, secrets handling, and deployment configuration. Enterprise controls are mentioned at a high level but need deeper verification.
+
+Security review should include auth, authorization, data access, generated code, secret handling, audit logs, compliance claims, and user consent where recordings or external accounts are involved.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Performance is mixed in public feedback: users praise speed but complain about credit drain, loops, stuck agents, and instability. Production performance depends on generated architecture.
+
+Performance should be judged through real projects or meetings: latency, accuracy, failed loops, context handling, deployment time, output correctness, and recovery.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community includes official help/learn pages, Trustpilot reviews, Reddit discussions, YouTube tutorials, independent reviews, and creator/affiliate content.
+
+Community signals should be weighted carefully because affiliate reviews and hype can overstate production readiness.
 
 ## 16. Strengths
 
-- _To be researched._
+- web and mobile app ambition
+- strong guided build flow
+- Pro advanced agent controls
+- GitHub/Supabase integrations
+- useful for rapid MVPs
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- credit burn complaints
+- expensive Pro tier
+- agent loops/stalls reported
+- generated production quality requires review
+- support and subscription complaints appear in public reviews
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- credit forecast before each action
+- stronger pause/resume
+- transparent failure refunds
+- built-in code/security audit
+- clearer team governance
+
+Missing features matter most when they affect trust, cost predictability, portability, production readiness, and recovery from generated errors.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- cost-aware build planner
+- production-readiness score
+- mobile app launch checklist
+- agent debugger
+- credit-safe sandbox mode
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Emergent is an AI app builder for creating production-oriented web and mobile apps through conversation with agents that design, code, test, and deploy.
+- Redesign: make cost, state, evidence, tests, and rollback visible at all times.
+- Remove: hidden failure loops, opaque generation, and lock-in that blocks users from owning outputs.
+- Simplify: onboarding, integrations, deployment, and production-readiness checks.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: saved setup, accumulated project history, integrations, generated assets, team workflows, and habit.
+- What creates lock-in: project data, generated code, meeting history, prompts, connected tools, deployment configuration, and team processes.
+- Why competitors struggle: they must match both speed and trust, not just generation quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: non-coders, founders, PMs, designers, agencies, and developers building web/mobile MVPs.
+- Who should avoid it: users who need guaranteed production correctness without review, strict governance not covered by the plan, or predictable costs without monitoring.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: web and mobile app ambition; strong guided build flow; Pro advanced agent controls; GitHub/Supabase integrations; useful for rapid MVPs.
+- Weaknesses: credit burn complaints; expensive Pro tier; agent loops/stalls reported; generated production quality requires review; support and subscription complaints appear in public reviews.
+- Opportunities: cost-aware build planner; production-readiness score; mobile app launch checklist; agent debugger; credit-safe sandbox mode.
+- Threats: fast-moving competitors, model cost changes, security incidents, platform lock-in concerns, and user disappointment after failed automation.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 8/10
+- Features: 8/10
+- Performance: 6/10
+- Customization: 8/10
+- AI: 8/10
+- Automation: 8/10
+- Integrations: 7/10
+- Scalability: 7/10
+- Innovation: 8/10
+- Value for Money: 6/10
+- Overall: 7.4/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: fast creation, visible iteration, integrations, exportability, and automated summaries or builds.
+- Worst ideas to avoid: hiding cost, hiding state, overclaiming production readiness, and weak recovery from failed AI work.
+- Innovations worth adapting: conversation-to-artifact workflows with direct deployment or sync.
+- Design principles: show progress, evidence, cost, risk, and rollback.
+- Architecture principles: separate generated artifacts from platform control, log important actions, and keep integrations reversible.
+- Business lessons: generous entry tiers drive adoption, but credit/pricing clarity determines trust.
+- Product strategy lessons: AI builders win when they pair speed with production confidence.

@@ -17,11 +17,11 @@ This registry preserves the original list order after deduplicating the repeated
 | 3 | ZeroClaw | ZeroClaw | AI Agents | [reports/ai-agents/zeroclaw.md](reports/ai-agents/zeroclaw.md) | Research drafted - batch 001 |
 | 4 | TrustClaw | TrustClaw | AI Agents | [reports/ai-agents/trustclaw.md](reports/ai-agents/trustclaw.md) | Research drafted - batch 001 |
 | 5 | Vellum | Vellum | AI Development Platforms | [reports/ai-development-platforms/vellum.md](reports/ai-development-platforms/vellum.md) | Research drafted - batch 001 |
-| 6 | Manus | Manus | AI Agents | [reports/ai-agents/manus.md](reports/ai-agents/manus.md) | Not started |
-| 7 | Lovable | Lovable | AI App Builders | [reports/ai-app-builders/lovable.md](reports/ai-app-builders/lovable.md) | Not started |
-| 8 | bolt | Bolt | AI App Builders | [reports/ai-app-builders/bolt.md](reports/ai-app-builders/bolt.md) | Not started |
-| 9 | emergent | Emergent | AI App Builders | [reports/ai-app-builders/emergent.md](reports/ai-app-builders/emergent.md) | Not started |
-| 10 | Fathom | Fathom | Meetings And Transcription | [reports/meetings-and-transcription/fathom.md](reports/meetings-and-transcription/fathom.md) | Not started |
+| 6 | Manus | Manus | AI Agents | [reports/ai-agents/manus.md](reports/ai-agents/manus.md) | Research drafted - batch 002 |
+| 7 | Lovable | Lovable | AI App Builders | [reports/ai-app-builders/lovable.md](reports/ai-app-builders/lovable.md) | Research drafted - batch 002 |
+| 8 | bolt | Bolt | AI App Builders | [reports/ai-app-builders/bolt.md](reports/ai-app-builders/bolt.md) | Research drafted - batch 002 |
+| 9 | emergent | Emergent | AI App Builders | [reports/ai-app-builders/emergent.md](reports/ai-app-builders/emergent.md) | Research drafted - batch 002 |
+| 10 | Fathom | Fathom | Meetings And Transcription | [reports/meetings-and-transcription/fathom.md](reports/meetings-and-transcription/fathom.md) | Research drafted - batch 002 |
 | 11 | Lindy | Lindy | AI Agents | [reports/ai-agents/lindy.md](reports/ai-agents/lindy.md) | Not started |
 | 12 | Canva AI | Canva AI | Design And Creative | [reports/design-and-creative/canva-ai.md](reports/design-and-creative/canva-ai.md) | Not started |
 | 13 | Gamma | Gamma | Presentations And Documents | [reports/presentations-and-documents/gamma.md](reports/presentations-and-documents/gamma.md) | Not started |

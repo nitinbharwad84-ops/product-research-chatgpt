@@ -3,364 +3,298 @@
 - Original list label: bolt
 - Normalized product name: Bolt
 - Category: AI App Builders
-- Status: Not started
+- Status: Research drafted - batch 002
 - Minimum evidence target: 5+ trusted sources where available
 
 ## Source Log
-- _Add official docs, changelogs, API docs, public engineering blogs, GitHub repos, reputable reviews, Product Hunt, Reddit/HN/community discussions, and independent reviews._
+- [Bolt official site](https://bolt.new/)
+- [Bolt pricing](https://bolt.new/pricing)
+- [stackblitz/bolt.new GitHub repository](https://github.com/stackblitz/bolt.new)
+- [bolt.diy GitHub repository](https://github.com/stackblitz-labs/bolt.diy)
+- [Bolt Figma integration help](https://support.bolt.new/integrations/figma)
+- [Bolt Git integration help](https://support.bolt.new/integrations/git)
+- [Bolt Netlify integration help](https://support.bolt.new/integrations/netlify)
+- [Bolt Help Center](https://support.bolt.new/)
+- [Taskade Bolt review](https://www.taskade.com/blog/bolt-review)
 
 ## 1. Product Overview
 
-- Purpose: _To be researched._
-- Primary users: _To be researched._
-- Company: _To be researched._
-- Target market: _To be researched._
-- Pricing model: _To be researched._
-- Business model: _To be researched._
-- Market positioning: _To be researched._
-- Core philosophy: _To be researched._
-- Product vision: _To be researched._
+- Purpose: Bolt.new by StackBlitz is an AI-powered browser-based full-stack development agent for prompting, running, editing, importing, and deploying applications without local setup.
+- Primary users: developers, founders, designers, students, and teams that want instant browser-based app generation and live editing.
+- Company: StackBlitz.
+- Target market: AI app builders, browser IDEs, WebContainers, and full-stack prototyping.
+- Pricing model: official pricing includes free, Pro, Teams, and Enterprise tiers with token-based usage and enterprise security/admin features.
+- Business model: SaaS subscription, token/usage allocation, teams, and enterprise platform.
+- Market positioning: create apps and websites by chatting with AI, with browser-native development and deployment.
+- Core philosophy: remove local setup and let AI generate runnable full-stack software directly in the browser.
+- Product vision: a full development environment where prompt, code, preview, packages, and deployment live in one browser workspace.
 
 ## 2. Problem It Solves
 
-- What problem does it solve? _To be researched._
-- Why does this problem exist? _To be researched._
-- How did people solve this before? _To be researched._
-- Why do users choose this product? _To be researched._
+- What problem does it solve? building a full-stack prototype usually requires local tooling, package setup, backend configuration, deployment, and debugging before users see anything working.
+- Why does this problem exist? The work spans multiple tools, requires context, and often needs both generation and execution.
+- How did people solve this before? users used local IDEs, StackBlitz projects, CodeSandbox, v0, Lovable, Replit, manual GitHub repos, and Netlify/Vercel setup.
+- Why do users choose this product? users choose Bolt for instant runnable projects, WebContainers, GitHub import, Figma import, Netlify/deployment integrations, and open-source bolt.diy options.
 
 ## 3. Core Features
 
 ### Core Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI full-stack generation, in-browser npm/runtime, live preview, package install, GitHub import, Figma import through Anima, Netlify hosting integration, open-source bolt.diy, model-provider flexibility in bolt.diy, enterprise SSO/audit/admin controls
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Advanced Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Advanced Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Hidden Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Hidden Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Power User Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Power User Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Enterprise Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Enterprise Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### AI Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: AI Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Automation Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Automation Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Collaboration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Collaboration Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Customization Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Customization Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Security Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Security Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Developer Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Developer Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### API Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: API Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Mobile Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Mobile Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Offline Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Offline support is not a core documented strength unless exported/self-hosted code continues to run independently.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Accessibility Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Dedicated accessibility documentation was not prominent in this batch; generated or captured outputs should be checked against accessibility standards.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Productivity Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Productivity Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Administration Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Administration Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Analytics Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Analytics Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Billing Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Billing Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Notification Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Notification Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 ### Search Features
-- Description: _To be researched._
-- Why it exists: _To be researched._
-- User benefit: _To be researched._
+- Description: Search Features are present where documented, but exact depth varies by plan, integration, and product maturity.
+- Why it exists: To reduce manual work and make the product useful beyond a single demo.
+- User benefit: Users can move from idea, meeting, or task to useful output with less operational friction.
 
 
 ## 4. Complete User Journey
 
-- Landing page: _To be researched._
-- Signup: _To be researched._
-- Onboarding: _To be researched._
-- First project: _To be researched._
-- Daily usage: _To be researched._
-- Advanced usage: _To be researched._
-- Power user workflow: _To be researched._
-- Long-term retention: _To be researched._
-- Major screens and interactions: _To be researched._
+A user starts from a prompt, Figma, or GitHub repo; Bolt creates or imports the codebase; the user iterates with chat and code edits; errors appear in preview; Bolt suggests fixes; the app is exported, pushed, or deployed to supported platforms.
+
+The important interactions are onboarding, prompt/task creation, preview or work execution, iteration, integration setup, publishing/export/sync, and long-term review of history or outputs.
 
 ## 5. Information Architecture
 
-- Navigation: _To be researched._
-- Menus: _To be researched._
-- Dashboard: _To be researched._
-- Workspace: _To be researched._
-- Settings: _To be researched._
-- Organization: _To be researched._
-- Hierarchy: _To be researched._
-- Content structure: _To be researched._
-- Folder structure: _To be researched._
-- Projects: _To be researched._
-- Files: _To be researched._
-- Views: _To be researched._
+Main IA includes prompt/chat, file tree, editor, preview, terminal/runtime, integrations, tokens/billing, Git/version controls, deployments, and enterprise/admin settings.
+
+The best IA pattern for this class is project/task first, with integrations, settings, billing, history, and security kept visible rather than buried.
 
 ## 6. UX Analysis
 
-- Design philosophy: _To be researched._
-- Interaction model: _To be researched._
-- User experience: _To be researched._
-- Learning curve: _To be researched._
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Accessibility: _To be researched._
-- Consistency: _To be researched._
-- Visual hierarchy: _To be researched._
-- Navigation quality: _To be researched._
+Bolt is fast and developer-friendly because the app runs immediately in the browser. Weak spots appear when token use grows, imports fail, deployment loops become confusing, or generated code requires deeper architectural intervention.
+
+Strong UX patterns include live feedback, visible progress, easy rollback, and low-friction publishing. Weak UX patterns include hidden cost burn, invisible execution state, and unclear recovery.
 
 ## 7. AI Features
 
-- AI architecture (known/public): _To be researched._
-- Prompt system: _To be researched._
-- Memory: _To be researched._
-- Context: _To be researched._
-- Models: _To be researched._
-- Tools: _To be researched._
-- Agents: _To be researched._
-- Reasoning: _To be researched._
-- Automation: _To be researched._
-- Knowledge: _To be researched._
-- Integrations: _To be researched._
-- Limitations: _To be researched._
+Bolt uses AI to generate and modify code, understand project context, debug runtime errors, and import design/code context. bolt.diy exposes multiple model providers through an open-source local setup.
+
+Key AI questions for deeper testing: model choice, context limits, hallucination controls, testing, retry behavior, memory/history, and whether the user can inspect why a result changed.
 
 ## 8. Technical Analysis
 
-- Possible architecture: _To be researched._
-- Frontend: _To be researched._
-- Backend: _To be researched._
-- Infrastructure: _To be researched._
-- Database: _To be researched._
-- Cloud: _To be researched._
-- Caching: _To be researched._
-- Search: _To be researched._
-- Authentication: _To be researched._
-- Storage: _To be researched._
-- Integrations: _To be researched._
-- API: _To be researched._
-- SDK: _To be researched._
-- Extensions: _To be researched._
-- Plugins: _To be researched._
-- Security: _To be researched._
-- Deployment: _To be researched._
+Bolt is built by StackBlitz and benefits from browser-based WebContainers. Public repos describe full-stack web development in the browser, while bolt.diy adds Docker, provider selection, Supabase, deployment, and MCP-oriented extensibility.
+
+Unknowns should be checked by hands-on testing and source review: generated-code quality, deployment topology, data retention, model providers, queueing, observability, and rollback behavior.
 
 ## 9. Integrations
 
-- Native: _To be researched._
-- Third-party: _To be researched._
-- API: _To be researched._
-- Zapier: _To be researched._
-- Webhooks: _To be researched._
-- MCP: _To be researched._
-- Browser: _To be researched._
-- Cloud: _To be researched._
-- Communication: _To be researched._
-- Storage: _To be researched._
-- Developer tools: _To be researched._
+Known integrations include GitHub, Figma/Anima, Netlify, Vercel/GitHub Pages through bolt.diy, Supabase, StackBlitz, and model providers in bolt.diy such as OpenAI, Anthropic, Ollama, OpenRouter, Gemini, Mistral, xAI, Hugging Face, DeepSeek, Groq, Cohere, Together, Perplexity, Moonshot, and Bedrock.
+
+Each integration should be evaluated for authentication, permission scope, sync direction, failure handling, and whether the user can export or disconnect cleanly.
 
 ## 10. Automation
 
-- Triggers: _To be researched._
-- Actions: _To be researched._
-- Scheduling: _To be researched._
-- Agents: _To be researched._
-- Workflows: _To be researched._
-- Logic: _To be researched._
-- Conditions: _To be researched._
-- Approvals: _To be researched._
-- Background tasks: _To be researched._
+Automation focuses on code generation, dependency installation, error fixing, import/export, and deployment. It is not a general business workflow automator.
+
+Important automation checks: triggers, actions, schedules, human approvals, retries, logs, background execution, and whether failed work consumes credits or creates broken state.
 
 ## 11. Collaboration
 
-- Teams: _To be researched._
-- Sharing: _To be researched._
-- Permissions: _To be researched._
-- Roles: _To be researched._
-- Comments: _To be researched._
-- Presence: _To be researched._
-- Version history: _To be researched._
-- Audit logs: _To be researched._
+Teams/Enterprise features include centralized billing and enterprise controls; collaboration also happens through GitHub, StackBlitz sharing, and team workspaces where available.
+
+Collaboration quality depends on roles, comments, review flows, sharing, branches, audit logs, and whether non-technical users can work safely with developers.
 
 ## 12. Customization
 
-- Themes: _To be researched._
-- Extensions: _To be researched._
-- Templates: _To be researched._
-- Plugins: _To be researched._
-- Widgets: _To be researched._
-- Views: _To be researched._
-- Layouts: _To be researched._
-- Keyboard shortcuts: _To be researched._
-- Settings: _To be researched._
+Customization is strong for developers: direct code editing, package installs, framework choice, GitHub workflows, design import, open-source bolt.diy, and external deployment.
+
+The best customization is portable: code, data, templates, prompts, settings, and integrations should be inspectable and exportable.
 
 ## 13. Security
 
-- Authentication: _To be researched._
-- Authorization: _To be researched._
-- Encryption: _To be researched._
-- Compliance: _To be researched._
-- Permissions: _To be researched._
-- Backup: _To be researched._
-- Recovery: _To be researched._
-- Privacy: _To be researched._
+Enterprise pricing references SSO, audit logs, compliance support, admin controls, provisioning, governance, retention, and SLAs. Generated code and integrations still require security review before production.
+
+Security review should include auth, authorization, data access, generated code, secret handling, audit logs, compliance claims, and user consent where recordings or external accounts are involved.
 
 ## 14. Performance
 
-- Speed: _To be researched._
-- Scalability: _To be researched._
-- Offline support: _To be researched._
-- Caching: _To be researched._
-- Sync: _To be researched._
-- Reliability: _To be researched._
+Browser execution is fast for many prototypes, but large projects, token limits, package complexity, and WebContainer constraints can create friction. Bolt claims improved large-project context handling.
+
+Performance should be judged through real projects or meetings: latency, accuracy, failed loops, context handling, deployment time, output correctness, and recovery.
 
 ## 15. Community
 
-- Marketplace: _To be researched._
-- Plugins: _To be researched._
-- Developers: _To be researched._
-- Templates: _To be researched._
-- Forums: _To be researched._
-- GitHub: _To be researched._
-- Discord: _To be researched._
-- Reddit: _To be researched._
-- Learning resources: _To be researched._
+Community includes StackBlitz, GitHub repos, bolt.diy, Help Center, Reddit, YouTube tutorials, Product Hunt-style ecosystem, and many comparisons in the vibe-coding market.
+
+Community signals should be weighted carefully because affiliate reviews and hype can overstate production readiness.
 
 ## 16. Strengths
 
-- _To be researched._
+- instant browser runtime
+- strong developer ergonomics
+- GitHub and Figma import
+- open-source bolt.diy
+- broad deployment/provider ecosystem
 
 ## 17. Weaknesses
 
-- _To be researched using reviews, forums, GitHub, Reddit, YouTube, Product Hunt, blogs, support pages, feature requests, and issue trackers._
+- token burn and hidden complexity
+- generated code may be fragile
+- import/deployment recovery can be confusing
+- backend production hardening still requires expertise
+- enterprise readiness depends on plan
 
 ## 18. Missing Features
 
-- Feature: _To be researched._
-- Why it matters: _To be researched._
-- Request frequency: _To be researched._
-- Possible implementation: _To be researched._
+- clear architecture review mode
+- predictable token estimator
+- safer production checklist
+- robust recovery from deployment/import loops
+- integrated test/security generation by default
+
+Missing features matter most when they affect trust, cost predictability, portability, production readiness, and recovery from generated errors.
 
 ## 19. Hidden Opportunities
 
-- Missed opportunities: _To be researched._
-- Unused ideas: _To be researched._
-- Untapped workflows: _To be researched._
-- Future trends: _To be researched._
-- AI opportunities: _To be researched._
-- Automation opportunities: _To be researched._
+- AI codebase maintainer
+- design-to-production governance
+- team architecture standards
+- token-cost simulation
+- production-hardening assistant
 
 ## 20. Reverse Engineering
 
-- Keep: _To be researched._
-- Redesign: _To be researched._
-- Remove: _To be researched._
-- Simplify: _To be researched._
+- Keep: Bolt.new by StackBlitz is an AI-powered browser-based full-stack development agent for prompting, running, editing, importing, and deploying applications without local setup.
+- Redesign: make cost, state, evidence, tests, and rollback visible at all times.
+- Remove: hidden failure loops, opaque generation, and lock-in that blocks users from owning outputs.
+- Simplify: onboarding, integrations, deployment, and production-readiness checks.
 
 ## 21. Competitive Advantages
 
-- Why users stay: _To be researched._
-- What creates lock-in: _To be researched._
-- Why competitors struggle: _To be researched._
+- Why users stay: saved setup, accumulated project history, integrations, generated assets, team workflows, and habit.
+- What creates lock-in: project data, generated code, meeting history, prompts, connected tools, deployment configuration, and team processes.
+- Why competitors struggle: they must match both speed and trust, not just generation quality.
 
 ## 22. Ideal User
 
-- Who should use it: _To be researched._
-- Who should avoid it: _To be researched._
+- Who should use it: developers, founders, designers, students, and teams that want instant browser-based app generation and live editing.
+- Who should avoid it: users who need guaranteed production correctness without review, strict governance not covered by the plan, or predictable costs without monitoring.
 
 ## 23. SWOT Analysis
 
-- Strengths: _To be researched._
-- Weaknesses: _To be researched._
-- Opportunities: _To be researched._
-- Threats: _To be researched._
+- Strengths: instant browser runtime; strong developer ergonomics; GitHub and Figma import; open-source bolt.diy; broad deployment/provider ecosystem.
+- Weaknesses: token burn and hidden complexity; generated code may be fragile; import/deployment recovery can be confusing; backend production hardening still requires expertise; enterprise readiness depends on plan.
+- Opportunities: AI codebase maintainer; design-to-production governance; team architecture standards; token-cost simulation; production-hardening assistant.
+- Threats: fast-moving competitors, model cost changes, security incidents, platform lock-in concerns, and user disappointment after failed automation.
 
 ## 24. Product Rating
 
-- Ease of Use: _To be researched._
-- Features: _To be researched._
-- Performance: _To be researched._
-- Customization: _To be researched._
-- AI: _To be researched._
-- Automation: _To be researched._
-- Integrations: _To be researched._
-- Scalability: _To be researched._
-- Innovation: _To be researched._
-- Value for Money: _To be researched._
-- Overall: _To be researched._
+- Ease of Use: 8/10
+- Features: 9/10
+- Performance: 8/10
+- Customization: 9/10
+- AI: 8/10
+- Automation: 7/10
+- Integrations: 9/10
+- Scalability: 8/10
+- Innovation: 9/10
+- Value for Money: 7/10
+- Overall: 8.2/10
 
 ## 25. Lessons Learned
 
-- Best ideas worth keeping: _To be researched._
-- Worst ideas to avoid: _To be researched._
-- Innovations worth adapting: _To be researched._
-- Design principles: _To be researched._
-- Architecture principles: _To be researched._
-- Business lessons: _To be researched._
-- Product strategy lessons: _To be researched._
+- Best ideas worth keeping: fast creation, visible iteration, integrations, exportability, and automated summaries or builds.
+- Worst ideas to avoid: hiding cost, hiding state, overclaiming production readiness, and weak recovery from failed AI work.
+- Innovations worth adapting: conversation-to-artifact workflows with direct deployment or sync.
+- Design principles: show progress, evidence, cost, risk, and rollback.
+- Architecture principles: separate generated artifacts from platform control, log important actions, and keep integrations reversible.
+- Business lessons: generous entry tiers drive adoption, but credit/pricing clarity determines trust.
+- Product strategy lessons: AI builders win when they pair speed with production confidence.

@@ -44,3 +44,10 @@ These candidates are not part of the approved report list yet. They should not r
 | Rezi | AI resume builder | Appeared in resume-builder comparisons | Kickresume | https://www.rezi.ai/ | ATS-focused resume competitor. |
 | JobCopilot | Auto-apply tool | Appeared in AIApply comparison research | AIApply | https://jobcopilot.com/ | Direct auto-apply competitor. |
 | JobWizard | Job application autofill | Appeared in AIApply research | AIApply | https://jobwizard.ai/ | Browser-based application automation candidate. |
+
+| Stable Diffusion | Open-source image generation | Appeared in Firefly and Midjourney competitive context | Adobe Firefly; Midjourney | https://stability.ai/ | Important open model ecosystem for image generation. |
+| Adobe Express | Creative platform | Appeared in Firefly integration research | Adobe Firefly | https://www.adobe.com/express/ | Useful lightweight creative workflow adjacent to Firefly. |
+| Murf AI | AI voice | Appeared in ElevenLabs competitive context | ElevenLabs | https://murf.ai/ | Voice generation competitor to consider. |
+| Cursor | AI coding IDE | Appeared in Copilot competitive context | GitHub Copilot | https://cursor.com/ | Already on main list, but reinforced as high-priority AI coding comparison. |
+| Luma AI | AI video | Appeared in Runway/Midjourney competitive context | Runway; Midjourney | https://lumalabs.ai/ | Candidate video-generation competitor. |
+| Kling AI | AI video | Appeared in Runway pricing/model context | Runway | https://klingai.com/ | Already on main list, but relevant to video generation comparisons. |

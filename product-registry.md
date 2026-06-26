@@ -37,11 +37,11 @@ This registry preserves the original list order after deduplicating the repeated
 | 23 | Reclaim.ai | Reclaim.ai | Calendar And Scheduling | [reports/calendar-and-scheduling/reclaim-ai.md](reports/calendar-and-scheduling/reclaim-ai.md) | Research drafted - batch 005 |
 | 24 | Kickresume | Kickresume | Career And Hiring | [reports/career-and-hiring/kickresume.md](reports/career-and-hiring/kickresume.md) | Research drafted - batch 005 |
 | 25 | AIApply | AIApply | Career And Hiring | [reports/career-and-hiring/aiapply.md](reports/career-and-hiring/aiapply.md) | Research drafted - batch 005 |
-| 26 | Adobe Firefly | Adobe Firefly | Media Generation | [reports/media-generation/adobe-firefly.md](reports/media-generation/adobe-firefly.md) | Not started |
-| 27 | ElevenLabs | ElevenLabs | Voice And Audio | [reports/voice-and-audio/elevenlabs.md](reports/voice-and-audio/elevenlabs.md) | Not started |
-| 28 | GitHub Copilot | GitHub Copilot | AI Coding | [reports/ai-coding/github-copilot.md](reports/ai-coding/github-copilot.md) | Not started |
-| 29 | Rumway | Runway | Media Generation | [reports/media-generation/runway.md](reports/media-generation/runway.md) | Not started |
-| 30 | Midjourney | Midjourney | Media Generation | [reports/media-generation/midjourney.md](reports/media-generation/midjourney.md) | Not started |
+| 26 | Adobe Firefly | Adobe Firefly | Media Generation | [reports/media-generation/adobe-firefly.md](reports/media-generation/adobe-firefly.md) | Research drafted - batch 006 |
+| 27 | ElevenLabs | ElevenLabs | Voice And Audio | [reports/voice-and-audio/elevenlabs.md](reports/voice-and-audio/elevenlabs.md) | Research drafted - batch 006 |
+| 28 | GitHub Copilot | GitHub Copilot | AI Coding | [reports/ai-coding/github-copilot.md](reports/ai-coding/github-copilot.md) | Research drafted - batch 006 |
+| 29 | Rumway | Runway | Media Generation | [reports/media-generation/runway.md](reports/media-generation/runway.md) | Research drafted - batch 006 |
+| 30 | Midjourney | Midjourney | Media Generation | [reports/media-generation/midjourney.md](reports/media-generation/midjourney.md) | Research drafted - batch 006 |
 | 31 | Google Gemini | Google Gemini | AI Assistants | [reports/ai-assistants/google-gemini.md](reports/ai-assistants/google-gemini.md) | Not started |
 | 32 | HeyGen | HeyGen | Media Generation | [reports/media-generation/heygen.md](reports/media-generation/heygen.md) | Not started |
 | 33 | Kling | Kling | Media Generation | [reports/media-generation/kling.md](reports/media-generation/kling.md) | Not started |
